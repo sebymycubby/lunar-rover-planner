@@ -1,0 +1,801 @@
+seed,mode,full_map,allow_wait,drain,gain,battery_start,success,failure_reason,total_time,final_battery,min_battery,steps,waits,route_changes,expansions,planning_ms,config
+1,blind,False,True,0.008,0.006,0.35,True,,68.1384,0.200252,0.200252,55,0,24,2259,7.56886,Time-only (baseline)
+2,blind,False,True,0.008,0.006,0.35,True,,74.7943,0.174265,0.174265,55,0,34,3290,6.33056,Time-only (baseline)
+3,blind,False,True,0.008,0.006,0.35,False,battery depleted,93.7832,0.148192,0.148192,66,0,45,7395,12.0285,Time-only (baseline)
+4,blind,False,True,0.008,0.006,0.35,False,battery depleted,104.025,0.14195,0.14195,74,0,59,7052,13.2439,Time-only (baseline)
+5,blind,False,True,0.008,0.006,0.35,False,battery depleted,95.0624,0.122007,0.122007,51,0,47,9409,13.631,Time-only (baseline)
+6,blind,False,True,0.008,0.006,0.35,True,,69.966,0.210008,0.210008,55,0,22,2237,3.10447,Time-only (baseline)
+7,blind,False,True,0.008,0.006,0.35,True,,83.6365,0.182727,0.182727,64,0,46,3774,7.35219,Time-only (baseline)
+8,blind,False,True,0.008,0.006,0.35,True,,64.2701,0.22146,0.22146,55,0,26,2227,3.22479,Time-only (baseline)
+9,blind,False,True,0.008,0.006,0.35,True,,93.679,0.159107,0.159107,72,0,51,8615,13.6707,Time-only (baseline)
+10,blind,False,True,0.008,0.006,0.35,True,,89.6666,0.170667,0.170667,66,0,39,4262,5.53543,Time-only (baseline)
+11,blind,False,True,0.008,0.006,0.35,True,,91.0331,0.166147,0.166147,65,0,40,3298,6.1175,Time-only (baseline)
+12,blind,False,True,0.008,0.006,0.35,True,,97.3715,0.155257,0.155257,73,0,57,7348,10.6659,Time-only (baseline)
+13,blind,False,True,0.008,0.006,0.35,False,battery depleted,87.4485,0.149426,0.149426,67,0,54,5122,8.14126,Time-only (baseline)
+14,blind,False,True,0.008,0.006,0.35,False,battery depleted,72.7332,0.148747,0.148747,51,0,26,3523,6.50172,Time-only (baseline)
+15,blind,False,True,0.008,0.006,0.35,True,,86.3779,0.177244,0.177244,63,0,40,3915,6.46286,Time-only (baseline)
+16,blind,False,True,0.008,0.006,0.35,True,,66.7961,0.187199,0.187199,55,0,39,3296,5.00112,Time-only (baseline)
+17,blind,False,True,0.008,0.006,0.35,False,battery depleted,91.3515,0.148417,0.148417,38,0,33,3744,5.24445,Time-only (baseline)
+18,blind,False,True,0.008,0.006,0.35,False,battery depleted,86.2089,0.135859,0.135859,52,0,37,4812,8.35543,Time-only (baseline)
+19,blind,False,True,0.008,0.006,0.35,False,battery depleted,88.5937,0.14005,0.14005,55,0,48,9590,14.5774,Time-only (baseline)
+20,blind,False,True,0.008,0.006,0.35,False,battery depleted,74.3194,0.149325,0.149325,58,0,28,4063,5.29874,Time-only (baseline)
+21,blind,False,True,0.008,0.006,0.35,False,battery depleted,98.4664,0.149416,0.149416,70,0,61,7841,12.0544,Time-only (baseline)
+22,blind,False,True,0.008,0.006,0.35,False,battery depleted,80.7447,0.147517,0.147517,59,0,41,4895,7.27792,Time-only (baseline)
+23,blind,False,True,0.008,0.006,0.35,False,battery depleted,95.0925,0.146354,0.146354,62,0,47,4439,8.17163,Time-only (baseline)
+24,blind,False,True,0.008,0.006,0.35,False,battery depleted,84.9134,0.147333,0.147333,62,0,38,4082,6.85131,Time-only (baseline)
+25,blind,False,True,0.008,0.006,0.35,False,battery depleted,79.0299,0.14865,0.14865,49,0,38,5274,9.50028,Time-only (baseline)
+26,blind,False,True,0.008,0.006,0.35,True,,65.5855,0.217691,0.217691,55,0,8,1757,2.87196,Time-only (baseline)
+27,blind,False,True,0.008,0.006,0.35,False,battery depleted,89.763,0.143486,0.143486,53,0,47,6245,15.6896,Time-only (baseline)
+28,blind,False,True,0.008,0.006,0.35,True,,91.0858,0.1613,0.1613,66,0,45,5168,9.30606,Time-only (baseline)
+29,blind,False,True,0.008,0.006,0.35,True,,65.9145,0.218171,0.218171,55,0,25,1935,4.76797,Time-only (baseline)
+30,blind,False,True,0.008,0.006,0.35,True,,72.8335,0.198579,0.198579,55,0,38,3277,4.69371,Time-only (baseline)
+31,blind,False,True,0.008,0.006,0.35,True,,74.6618,0.200676,0.200676,57,0,16,3789,5.5201,Time-only (baseline)
+32,blind,False,True,0.008,0.006,0.35,True,,61.906,0.226188,0.226188,55,0,24,2310,3.6411,Time-only (baseline)
+33,blind,False,True,0.008,0.006,0.35,False,battery depleted,80.338,0.141419,0.141419,58,0,39,6839,11.5771,Time-only (baseline)
+34,blind,False,True,0.008,0.006,0.35,False,battery depleted,67.7418,0.149641,0.149641,44,0,20,2757,4.91803,Time-only (baseline)
+35,blind,False,True,0.008,0.006,0.35,False,battery depleted,75.2546,0.148614,0.148614,55,0,44,5147,7.24569,Time-only (baseline)
+36,blind,False,True,0.008,0.006,0.35,False,battery depleted,77.3844,0.14893,0.14893,66,0,34,3674,6.31837,Time-only (baseline)
+37,blind,False,True,0.008,0.006,0.35,False,battery depleted,90.9309,0.147233,0.147233,75,0,49,10215,13.1562,Time-only (baseline)
+38,blind,False,True,0.008,0.006,0.35,True,,79.2163,0.176856,0.176856,55,0,37,3569,5.84374,Time-only (baseline)
+39,blind,False,True,0.008,0.006,0.35,True,,88.7329,0.157638,0.157638,67,0,49,6747,9.52993,Time-only (baseline)
+40,blind,False,True,0.008,0.006,0.35,True,,62.9411,0.224118,0.224118,55,0,17,1917,2.52664,Time-only (baseline)
+41,blind,False,True,0.008,0.006,0.35,True,,76.3605,0.197279,0.197279,55,0,40,3300,4.30711,Time-only (baseline)
+42,blind,False,True,0.008,0.006,0.35,False,battery depleted,70.1856,0.149326,0.149326,56,0,40,3709,6.45136,Time-only (baseline)
+43,blind,False,True,0.008,0.006,0.35,True,,63.3033,0.207216,0.207216,55,0,10,1762,2.87392,Time-only (baseline)
+44,blind,False,True,0.008,0.006,0.35,True,,78.2495,0.16814,0.16814,63,0,42,4170,6.47116,Time-only (baseline)
+45,blind,False,True,0.008,0.006,0.35,True,,68.6859,0.184966,0.184966,55,0,43,3626,5.38292,Time-only (baseline)
+46,blind,False,True,0.008,0.006,0.35,False,battery depleted,83.5815,0.148663,0.148663,45,0,39,4929,9.06624,Time-only (baseline)
+47,blind,False,True,0.008,0.006,0.35,True,,86.1484,0.167118,0.167118,70,0,42,4763,8.84552,Time-only (baseline)
+48,blind,False,True,0.008,0.006,0.35,False,battery depleted,92.9357,0.149751,0.149751,74,0,47,6215,10.8135,Time-only (baseline)
+49,blind,False,True,0.008,0.006,0.35,False,battery depleted,96.3915,0.147664,0.147664,78,0,39,4220,7.47207,Time-only (baseline)
+50,blind,False,True,0.008,0.006,0.35,True,,97.0473,0.155761,0.155761,74,0,60,5378,7.26279,Time-only (baseline)
+51,blind,False,True,0.008,0.006,0.35,True,,68.6688,0.212662,0.212662,57,0,46,3823,6.34759,Time-only (baseline)
+52,blind,False,True,0.008,0.006,0.35,False,battery depleted,87.5848,0.149815,0.149815,67,0,59,8982,13.7864,Time-only (baseline)
+53,blind,False,True,0.008,0.006,0.35,False,battery depleted,85.5844,0.148986,0.148986,63,0,48,8978,18.8576,Time-only (baseline)
+54,blind,False,True,0.008,0.006,0.35,False,battery depleted,93.9609,0.148141,0.148141,71,0,59,6959,10.709,Time-only (baseline)
+55,blind,False,True,0.008,0.006,0.35,False,battery depleted,64.7323,0.148868,0.148868,54,0,32,2802,4.3485,Time-only (baseline)
+56,blind,False,True,0.008,0.006,0.35,True,,79.9477,0.190105,0.190105,61,0,37,3899,4.8794,Time-only (baseline)
+57,blind,False,True,0.008,0.006,0.35,True,,65.2329,0.219534,0.219534,55,0,40,2888,5.00563,Time-only (baseline)
+58,blind,False,True,0.008,0.006,0.35,True,,77.5606,0.194879,0.194879,56,0,33,3371,5.29397,Time-only (baseline)
+59,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.04,0.147416,0.147416,79,0,60,9945,11.7683,Time-only (baseline)
+60,blind,False,True,0.008,0.006,0.35,False,battery depleted,89.25,0.149258,0.149258,51,0,35,3161,4.86375,Time-only (baseline)
+61,blind,False,True,0.008,0.006,0.35,True,,67.2254,0.215549,0.215549,55,0,17,1832,3.06469,Time-only (baseline)
+62,blind,False,True,0.008,0.006,0.35,False,battery depleted,95.9205,0.147584,0.147584,72,0,48,7222,10.7171,Time-only (baseline)
+63,blind,False,True,0.008,0.006,0.35,True,,74.6016,0.200797,0.200797,55,0,37,3674,5.15766,Time-only (baseline)
+64,blind,False,True,0.008,0.006,0.35,True,,93.281,0.163438,0.163438,69,0,51,7937,9.58745,Time-only (baseline)
+65,blind,False,True,0.008,0.006,0.35,False,battery depleted,66.1652,0.147669,0.147669,53,0,25,2601,4.96334,Time-only (baseline)
+66,blind,False,True,0.008,0.006,0.35,True,,64.221,0.221558,0.221558,55,0,14,1775,3.04214,Time-only (baseline)
+67,blind,False,True,0.008,0.006,0.35,False,battery depleted,71.8813,0.13789,0.13789,40,0,31,2569,4.55011,Time-only (baseline)
+68,blind,False,True,0.008,0.006,0.35,True,,66.0478,0.174808,0.174808,55,0,41,2923,3.96977,Time-only (baseline)
+69,blind,False,True,0.008,0.006,0.35,True,,68.2597,0.213481,0.213481,55,0,29,2590,4.31129,Time-only (baseline)
+70,blind,False,True,0.008,0.006,0.35,True,,74.0888,0.201822,0.201822,61,0,18,2168,3.43889,Time-only (baseline)
+71,blind,False,True,0.008,0.006,0.35,False,battery depleted,94.8823,0.139292,0.139292,61,0,49,4414,6.58429,Time-only (baseline)
+72,blind,False,True,0.008,0.006,0.35,False,battery depleted,98.7927,0.14871,0.14871,73,0,52,7075,11.1761,Time-only (baseline)
+73,blind,False,True,0.008,0.006,0.35,False,battery depleted,69.9277,0.147933,0.147933,51,0,26,2333,3.30077,Time-only (baseline)
+74,blind,False,True,0.008,0.006,0.35,True,,62.7828,0.175549,0.175549,55,0,21,1762,2.94784,Time-only (baseline)
+75,blind,False,True,0.008,0.006,0.35,False,battery depleted,71.1624,0.147926,0.147926,59,0,32,3603,5.42478,Time-only (baseline)
+76,blind,False,True,0.008,0.006,0.35,True,,64.9517,0.220097,0.220097,55,0,30,2344,3.56314,Time-only (baseline)
+77,blind,False,True,0.008,0.006,0.35,False,battery depleted,98.5184,0.149874,0.149874,73,0,45,9975,13.3859,Time-only (baseline)
+78,blind,False,True,0.008,0.006,0.35,False,battery depleted,99.3174,0.148105,0.148105,54,0,38,3722,6.79669,Time-only (baseline)
+79,blind,False,True,0.008,0.006,0.35,True,,83.4303,0.183139,0.183139,59,0,32,3084,5.39827,Time-only (baseline)
+80,blind,False,True,0.008,0.006,0.35,True,,86.2716,0.177457,0.177457,68,0,48,5659,8.86846,Time-only (baseline)
+81,blind,False,True,0.008,0.006,0.35,True,,75.1642,0.18286,0.18286,58,0,35,3481,5.22115,Time-only (baseline)
+82,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.337,0.148374,0.148374,79,0,51,4925,7.11297,Time-only (baseline)
+83,blind,False,True,0.008,0.006,0.35,True,,77.3853,0.195229,0.195229,57,0,49,4672,6.20873,Time-only (baseline)
+84,blind,False,True,0.008,0.006,0.35,True,,74.8594,0.200281,0.200281,57,0,37,2870,5.13048,Time-only (baseline)
+85,blind,False,True,0.008,0.006,0.35,True,,67.1589,0.200473,0.200473,55,0,24,2573,3.74889,Time-only (baseline)
+86,blind,False,True,0.008,0.006,0.35,False,battery depleted,71.1079,0.146247,0.146247,53,0,32,3869,6.3734,Time-only (baseline)
+87,blind,False,True,0.008,0.006,0.35,True,,84.1946,0.170137,0.170137,66,0,45,6113,9.30708,Time-only (baseline)
+88,blind,False,True,0.008,0.006,0.35,True,,69.0655,0.211869,0.211869,55,0,15,2266,2.99047,Time-only (baseline)
+89,blind,False,True,0.008,0.006,0.35,False,battery depleted,92.2501,0.140123,0.140123,69,0,37,5482,6.79685,Time-only (baseline)
+90,blind,False,True,0.008,0.006,0.35,False,battery depleted,90.4693,0.1498,0.1498,62,0,43,6128,9.94519,Time-only (baseline)
+91,blind,False,True,0.008,0.006,0.35,True,,79.7037,0.168146,0.168146,62,0,12,2254,3.63265,Time-only (baseline)
+92,blind,False,True,0.008,0.006,0.35,False,battery depleted,92.5326,0.148746,0.148746,47,0,32,3275,5.29791,Time-only (baseline)
+93,blind,False,True,0.008,0.006,0.35,True,,63.4201,0.22316,0.22316,55,0,15,1751,2.8183,Time-only (baseline)
+94,blind,False,True,0.008,0.006,0.35,True,,64.5336,0.219688,0.219688,55,0,6,1743,3.24094,Time-only (baseline)
+95,blind,False,True,0.008,0.006,0.35,True,,65.5712,0.218858,0.218858,55,0,33,2454,3.22057,Time-only (baseline)
+96,blind,False,True,0.008,0.006,0.35,True,,70.8196,0.208361,0.208361,56,0,45,3723,4.98354,Time-only (baseline)
+97,blind,False,True,0.008,0.006,0.35,False,battery depleted,101.469,0.147063,0.147063,79,0,66,8732,13.8849,Time-only (baseline)
+98,blind,False,True,0.008,0.006,0.35,False,battery depleted,87.8338,0.138508,0.138508,45,0,33,3007,5.27136,Time-only (baseline)
+99,blind,False,True,0.008,0.006,0.35,False,battery depleted,59.1127,0.134172,0.134172,24,0,20,3871,7.35221,Time-only (baseline)
+100,blind,False,True,0.008,0.006,0.35,True,,85.548,0.178904,0.178904,64,0,45,3739,5.52158,Time-only (baseline)
+101,blind,False,True,0.008,0.006,0.35,False,battery depleted,77.8838,0.147563,0.147563,54,0,31,2524,3.62903,Time-only (baseline)
+102,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.814,0.148372,0.148372,69,0,57,7589,12.6205,Time-only (baseline)
+103,blind,False,True,0.008,0.006,0.35,True,,64.9021,0.169469,0.169469,55,0,21,1804,3.14167,Time-only (baseline)
+104,blind,False,True,0.008,0.006,0.35,False,battery depleted,96.0999,0.148657,0.148657,72,0,55,7677,10.3317,Time-only (baseline)
+105,blind,False,True,0.008,0.006,0.35,True,,69.0659,0.193505,0.193505,55,0,33,2450,4.13514,Time-only (baseline)
+106,blind,False,True,0.008,0.006,0.35,False,battery depleted,87.7737,0.148654,0.148654,53,0,46,4590,7.27643,Time-only (baseline)
+107,blind,False,True,0.008,0.006,0.35,True,,61.8099,0.169516,0.169516,55,0,0,1608,2.98938,Time-only (baseline)
+108,blind,False,True,0.008,0.006,0.35,False,battery depleted,99.4312,0.149625,0.149625,73,0,70,10215,16.9818,Time-only (baseline)
+109,blind,False,True,0.008,0.006,0.35,True,,72.9605,0.204079,0.204079,57,0,21,2302,3.54945,Time-only (baseline)
+110,blind,False,True,0.008,0.006,0.35,True,,72.4521,0.181907,0.181907,55,0,47,3540,5.27447,Time-only (baseline)
+111,blind,False,True,0.008,0.006,0.35,False,battery depleted,66.3763,0.148777,0.148777,38,0,33,3273,5.37935,Time-only (baseline)
+112,blind,False,True,0.008,0.006,0.35,True,,69.7213,0.210557,0.210557,55,0,44,3528,4.84039,Time-only (baseline)
+113,blind,False,True,0.008,0.006,0.35,True,,87.9044,0.173336,0.173336,66,0,30,4042,6.47573,Time-only (baseline)
+114,blind,False,True,0.008,0.006,0.35,False,battery depleted,63.8372,0.146931,0.146931,47,0,37,3220,4.95432,Time-only (baseline)
+115,blind,False,True,0.008,0.006,0.35,True,,88.4374,0.173125,0.173125,58,0,38,4058,5.80161,Time-only (baseline)
+116,blind,False,True,0.008,0.006,0.35,True,,96.577,0.15544,0.15544,75,0,37,4095,6.35789,Time-only (baseline)
+117,blind,False,True,0.008,0.006,0.35,True,,63.2356,0.223529,0.223529,55,0,24,1919,2.50809,Time-only (baseline)
+118,blind,False,True,0.008,0.006,0.35,False,battery depleted,95.9254,0.148853,0.148853,65,0,52,6070,7.85498,Time-only (baseline)
+119,blind,False,True,0.008,0.006,0.35,False,battery depleted,99.8915,0.147857,0.147857,80,0,53,6950,9.45358,Time-only (baseline)
+120,blind,False,True,0.008,0.006,0.35,True,,95.2234,0.159553,0.159553,74,0,52,6093,12.462,Time-only (baseline)
+121,blind,False,True,0.008,0.006,0.35,True,,88.4892,0.170945,0.170945,63,0,37,4465,6.49134,Time-only (baseline)
+122,blind,False,True,0.008,0.006,0.35,False,battery depleted,68.5578,0.148452,0.148452,52,0,39,8674,12.0197,Time-only (baseline)
+123,blind,False,True,0.008,0.006,0.35,True,,74.955,0.184569,0.184569,56,0,28,2346,3.35639,Time-only (baseline)
+124,blind,False,True,0.008,0.006,0.35,False,battery depleted,91.9523,0.148596,0.148596,72,0,54,5046,8.15038,Time-only (baseline)
+125,blind,False,True,0.008,0.006,0.35,False,battery depleted,90.9015,0.149389,0.149389,71,0,53,6196,10.4097,Time-only (baseline)
+126,blind,False,True,0.008,0.006,0.35,False,battery depleted,80.9877,0.149572,0.149572,61,0,54,6902,10.9523,Time-only (baseline)
+127,blind,False,True,0.008,0.006,0.35,True,,82.0443,0.185911,0.185911,63,0,48,4192,5.7289,Time-only (baseline)
+128,blind,False,True,0.008,0.006,0.35,False,battery depleted,73.3368,0.149724,0.149724,53,0,22,3130,4.69804,Time-only (baseline)
+129,blind,False,True,0.008,0.006,0.35,False,battery depleted,88.0207,0.135585,0.135585,36,0,22,2671,4.71232,Time-only (baseline)
+130,blind,False,True,0.008,0.006,0.35,True,,86.6675,0.176665,0.176665,70,0,42,5365,7.42847,Time-only (baseline)
+131,blind,False,True,0.008,0.006,0.35,True,,94.7297,0.157543,0.157543,63,0,48,5598,8.63055,Time-only (baseline)
+132,blind,False,True,0.008,0.006,0.35,False,battery depleted,57.8932,0.136114,0.136114,22,0,17,3399,4.73433,Time-only (baseline)
+133,blind,False,True,0.008,0.006,0.35,True,,77.4089,0.1944,0.1944,55,0,38,3207,3.96597,Time-only (baseline)
+134,blind,False,True,0.008,0.006,0.35,True,,74.1888,0.194379,0.194379,60,0,34,3208,5.05809,Time-only (baseline)
+135,blind,False,True,0.008,0.006,0.35,True,,77.1581,0.195684,0.195684,55,0,34,3101,4.18441,Time-only (baseline)
+136,blind,False,True,0.008,0.006,0.35,True,,63.7313,0.183897,0.183897,55,0,19,1894,2.59987,Time-only (baseline)
+137,blind,False,True,0.008,0.006,0.35,True,,66.6834,0.208622,0.208622,55,0,22,2123,3.40109,Time-only (baseline)
+138,blind,False,True,0.008,0.006,0.35,True,,76.693,0.196614,0.196614,61,0,38,2869,4.58152,Time-only (baseline)
+139,blind,False,True,0.008,0.006,0.35,False,battery depleted,51.6455,0.147596,0.147596,26,0,17,2348,4.67981,Time-only (baseline)
+140,blind,False,True,0.008,0.006,0.35,True,,66.0536,0.161515,0.161515,55,0,34,2817,3.9853,Time-only (baseline)
+141,blind,False,True,0.008,0.006,0.35,False,battery depleted,80.0458,0.145172,0.145172,28,0,26,3059,5.62611,Time-only (baseline)
+142,blind,False,True,0.008,0.006,0.35,True,,80.7063,0.155207,0.155207,57,0,42,4732,6.50992,Time-only (baseline)
+143,blind,False,True,0.008,0.006,0.35,True,,63.1223,0.190356,0.190356,55,0,21,2087,2.74171,Time-only (baseline)
+144,blind,False,True,0.008,0.006,0.35,True,,86.883,0.176234,0.176234,67,0,50,6958,8.57972,Time-only (baseline)
+145,blind,False,True,0.008,0.006,0.35,True,,65.8486,0.202663,0.202663,55,0,34,2444,3.86136,Time-only (baseline)
+146,blind,False,True,0.008,0.006,0.35,False,battery depleted,76.1659,0.143999,0.143999,37,0,31,4478,7.87813,Time-only (baseline)
+147,blind,False,True,0.008,0.006,0.35,False,battery depleted,76.6675,0.149644,0.149644,58,0,39,5200,9.13169,Time-only (baseline)
+148,blind,False,True,0.008,0.006,0.35,True,,63.5203,0.222959,0.222959,55,0,14,2131,3.65234,Time-only (baseline)
+149,blind,False,True,0.008,0.006,0.35,True,,62.5382,0.224924,0.224924,55,0,14,2383,2.84599,Time-only (baseline)
+150,blind,False,True,0.008,0.006,0.35,True,,60.7712,0.228458,0.228458,55,0,4,1720,2.42238,Time-only (baseline)
+151,blind,False,True,0.008,0.006,0.35,False,battery depleted,75.4533,0.139414,0.139414,23,0,21,3206,5.55285,Time-only (baseline)
+152,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.596,0.148809,0.148809,80,0,54,4791,6.98989,Time-only (baseline)
+153,blind,False,True,0.008,0.006,0.35,False,battery depleted,76.9973,0.146053,0.146053,53,0,42,8335,10.6932,Time-only (baseline)
+154,blind,False,True,0.008,0.006,0.35,True,,63.1621,0.223676,0.223676,55,0,11,2054,2.55441,Time-only (baseline)
+155,blind,False,True,0.008,0.006,0.35,True,,90.6876,0.168625,0.168625,72,0,53,4936,7.7706,Time-only (baseline)
+156,blind,False,True,0.008,0.006,0.35,False,battery depleted,69.7513,0.14899,0.14899,48,0,36,3200,4.38424,Time-only (baseline)
+157,blind,False,True,0.008,0.006,0.35,False,battery depleted,84.2816,0.146896,0.146896,66,0,37,4765,7.64104,Time-only (baseline)
+158,blind,False,True,0.008,0.006,0.35,False,battery depleted,79.9873,0.147632,0.147632,55,0,17,2176,4.11601,Time-only (baseline)
+159,blind,False,True,0.008,0.006,0.35,True,,69.9221,0.210156,0.210156,55,0,44,3108,4.93122,Time-only (baseline)
+160,blind,False,True,0.008,0.006,0.35,False,battery depleted,67.5808,0.136645,0.136645,24,0,11,1930,3.07288,Time-only (baseline)
+161,blind,False,True,0.008,0.006,0.35,True,,75.0075,0.199285,0.199285,56,0,42,4364,7.06088,Time-only (baseline)
+162,blind,False,True,0.008,0.006,0.35,True,,71.8711,0.206258,0.206258,55,0,43,2865,5.48353,Time-only (baseline)
+163,blind,False,True,0.008,0.006,0.35,True,,90.6624,0.168675,0.168675,71,0,42,6028,13.3188,Time-only (baseline)
+164,blind,False,True,0.008,0.006,0.35,True,,71.4359,0.207128,0.207128,57,0,36,3040,4.51818,Time-only (baseline)
+165,blind,False,True,0.008,0.006,0.35,False,battery depleted,65.4862,0.139974,0.139974,29,0,23,3123,6.30562,Time-only (baseline)
+166,blind,False,True,0.008,0.006,0.35,False,battery depleted,58.6662,0.138871,0.138871,35,0,21,3928,7.75485,Time-only (baseline)
+167,blind,False,True,0.008,0.006,0.35,False,battery depleted,76.016,0.124114,0.124114,57,0,16,2111,3.76991,Time-only (baseline)
+168,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.546,0.148908,0.148908,76,0,53,6308,7.23879,Time-only (baseline)
+169,blind,False,True,0.008,0.006,0.35,True,,70.3735,0.159284,0.159284,55,0,23,3904,7.76145,Time-only (baseline)
+170,blind,False,True,0.008,0.006,0.35,True,,88.2512,0.173498,0.173498,65,0,45,5143,7.30956,Time-only (baseline)
+171,blind,False,True,0.008,0.006,0.35,True,,65.9181,0.197006,0.197006,55,0,41,2716,6.49154,Time-only (baseline)
+172,blind,False,True,0.008,0.006,0.35,False,battery depleted,92.3662,0.148251,0.148251,69,0,56,5723,10.8014,Time-only (baseline)
+173,blind,False,True,0.008,0.006,0.35,False,battery depleted,69.1067,0.146267,0.146267,38,0,14,2326,5.43748,Time-only (baseline)
+174,blind,False,True,0.008,0.006,0.35,True,,62.5705,0.209969,0.209969,55,0,21,1857,2.82877,Time-only (baseline)
+175,blind,False,True,0.008,0.006,0.35,False,battery depleted,97.615,0.147843,0.147843,77,0,57,8501,16.451,Time-only (baseline)
+176,blind,False,True,0.008,0.006,0.35,True,,66.0578,0.173529,0.173529,55,0,35,2694,3.66942,Time-only (baseline)
+177,blind,False,True,0.008,0.006,0.35,True,,84.327,0.160894,0.160894,60,0,47,4875,8.72875,Time-only (baseline)
+178,blind,False,True,0.008,0.006,0.35,True,,83.6156,0.176353,0.176353,59,0,33,2842,5.08818,Time-only (baseline)
+179,blind,False,True,0.008,0.006,0.35,False,battery depleted,54.6046,0.141486,0.141486,33,0,26,4088,6.22045,Time-only (baseline)
+180,blind,False,True,0.008,0.006,0.35,True,,74.9142,0.194544,0.194544,55,0,32,2704,4.51592,Time-only (baseline)
+181,blind,False,True,0.008,0.006,0.35,True,,84.252,0.178112,0.178112,63,0,46,5206,7.07406,Time-only (baseline)
+182,blind,False,True,0.008,0.006,0.35,True,,67.4825,0.213364,0.213364,55,0,38,2726,4.94832,Time-only (baseline)
+183,blind,False,True,0.008,0.006,0.35,False,battery depleted,62.4422,0.139949,0.139949,39,0,29,3469,5.35862,Time-only (baseline)
+184,blind,False,True,0.008,0.006,0.35,True,,67.3155,0.185457,0.185457,56,0,28,2422,3.77457,Time-only (baseline)
+185,blind,False,True,0.008,0.006,0.35,True,,69.5117,0.210977,0.210977,58,0,14,1883,3.62082,Time-only (baseline)
+186,blind,False,True,0.008,0.006,0.35,False,battery depleted,90.8384,0.147854,0.147854,62,0,31,3575,5.56082,Time-only (baseline)
+187,blind,False,True,0.008,0.006,0.35,False,battery depleted,94.9989,0.140277,0.140277,66,0,45,4742,9.88169,Time-only (baseline)
+188,blind,False,True,0.008,0.006,0.35,True,,63.805,0.206939,0.206939,55,0,4,1691,2.86952,Time-only (baseline)
+189,blind,False,True,0.008,0.006,0.35,False,battery depleted,82.5426,0.149011,0.149011,67,0,41,7842,11.0981,Time-only (baseline)
+190,blind,False,True,0.008,0.006,0.35,True,,74.0858,0.201828,0.201828,56,0,34,2914,5.11006,Time-only (baseline)
+191,blind,False,True,0.008,0.006,0.35,True,,99.1348,0.15173,0.15173,75,0,37,3893,5.8718,Time-only (baseline)
+192,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.243,0.1487,0.1487,78,0,40,4840,8.20777,Time-only (baseline)
+193,blind,False,True,0.008,0.006,0.35,False,battery depleted,100.171,0.149607,0.149607,73,0,54,8647,13.5947,Time-only (baseline)
+194,blind,False,True,0.008,0.006,0.35,True,,63.9422,0.222116,0.222116,55,0,25,2109,3.27874,Time-only (baseline)
+195,blind,False,True,0.008,0.006,0.35,True,,62.5369,0.224692,0.224692,55,0,21,1967,3.5262,Time-only (baseline)
+196,blind,False,True,0.008,0.006,0.35,True,,64.7907,0.218671,0.218671,55,0,29,2562,3.88491,Time-only (baseline)
+197,blind,False,True,0.008,0.006,0.35,True,,81.1187,0.166247,0.166247,58,0,24,2183,4.32556,Time-only (baseline)
+198,blind,False,True,0.008,0.006,0.35,True,,85.0549,0.161934,0.161934,60,0,34,3757,6.70889,Time-only (baseline)
+199,blind,False,True,0.008,0.006,0.35,False,battery depleted,79.9388,0.147415,0.147415,60,0,46,3815,6.85692,Time-only (baseline)
+200,blind,False,True,0.008,0.006,0.35,False,battery depleted,93.711,0.148662,0.148662,53,0,39,4807,8.38657,Time-only (baseline)
+1,aware,False,False,0.008,0.006,0.35,True,,68.1384,0.200252,0.200252,55,0,24,2259,3.48386,"Battery-aware, no parking"
+2,aware,False,False,0.008,0.006,0.35,True,,74.7943,0.174265,0.174265,55,0,34,3290,5.98807,"Battery-aware, no parking"
+3,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,64.9254,0.220149,0.220149,46,0,43,16457,25.436,"Battery-aware, no parking"
+4,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,86.664,0.176672,0.176672,68,0,57,6973,11.5328,"Battery-aware, no parking"
+5,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,23.6282,0.297854,0.297854,10,0,9,9868,16.3739,"Battery-aware, no parking"
+6,aware,False,False,0.008,0.006,0.35,True,,69.966,0.210008,0.210008,55,0,22,2237,3.44428,"Battery-aware, no parking"
+7,aware,False,False,0.008,0.006,0.35,True,,83.6365,0.182727,0.182727,64,0,49,4700,8.92712,"Battery-aware, no parking"
+8,aware,False,False,0.008,0.006,0.35,True,,64.2701,0.22146,0.22146,55,0,26,2227,3.70845,"Battery-aware, no parking"
+9,aware,False,False,0.008,0.006,0.35,True,,93.679,0.159107,0.159107,72,0,54,27287,51.2696,"Battery-aware, no parking"
+10,aware,False,False,0.008,0.006,0.35,True,,89.6666,0.170667,0.170667,66,0,39,4262,6.02329,"Battery-aware, no parking"
+11,aware,False,False,0.008,0.006,0.35,True,,91.0331,0.166147,0.166147,65,0,40,3298,6.69877,"Battery-aware, no parking"
+12,aware,False,False,0.008,0.006,0.35,True,,97.3715,0.155257,0.155257,73,0,57,17153,25.4171,"Battery-aware, no parking"
+13,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,63.5403,0.212278,0.212278,48,0,41,6657,11.1716,"Battery-aware, no parking"
+14,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,37.913,0.26843,0.26843,31,0,16,6559,15.0478,"Battery-aware, no parking"
+15,aware,False,False,0.008,0.006,0.35,True,,86.3779,0.177244,0.177244,63,0,40,3915,6.5284,"Battery-aware, no parking"
+16,aware,False,False,0.008,0.006,0.35,True,,66.7961,0.187199,0.187199,55,0,39,3326,12.2635,"Battery-aware, no parking"
+17,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,48.4208,0.252773,0.252773,23,0,21,4945,9.98968,"Battery-aware, no parking"
+18,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,27.0169,0.295966,0.295966,23,0,9,12630,34.2292,"Battery-aware, no parking"
+19,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,86.4167,0.171549,0.171549,68,0,43,30680,59.1458,"Battery-aware, no parking"
+20,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,36.5625,0.276875,0.276875,31,0,14,8145,10.8826,"Battery-aware, no parking"
+21,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,44.8041,0.256741,0.256741,35,0,30,9086,12.6612,"Battery-aware, no parking"
+22,aware,False,False,0.008,0.006,0.35,True,,84.6523,0.152062,0.152062,61,0,47,5135,7.18485,"Battery-aware, no parking"
+23,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,73.3004,0.189938,0.189938,56,0,43,4365,7.38836,"Battery-aware, no parking"
+24,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,36.6591,0.243841,0.243841,25,0,13,4411,6.01696,"Battery-aware, no parking"
+25,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,26.079,0.297842,0.297842,20,0,12,6750,11.682,"Battery-aware, no parking"
+26,aware,False,False,0.008,0.006,0.35,True,,65.5855,0.217691,0.217691,55,0,8,1757,2.87978,"Battery-aware, no parking"
+27,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,51.4135,0.247173,0.247173,40,0,35,7339,18.3132,"Battery-aware, no parking"
+28,aware,False,False,0.008,0.006,0.35,True,,91.0858,0.1613,0.1613,66,0,45,5711,9.19642,"Battery-aware, no parking"
+29,aware,False,False,0.008,0.006,0.35,True,,65.9145,0.218171,0.218171,55,0,25,1935,2.91221,"Battery-aware, no parking"
+30,aware,False,False,0.008,0.006,0.35,True,,72.8335,0.198579,0.198579,55,0,38,3278,8.25363,"Battery-aware, no parking"
+31,aware,False,False,0.008,0.006,0.35,True,,74.6618,0.200676,0.200676,57,0,16,3789,5.87223,"Battery-aware, no parking"
+32,aware,False,False,0.008,0.006,0.35,True,,61.906,0.226188,0.226188,55,0,24,2310,2.90127,"Battery-aware, no parking"
+33,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,42.8592,0.253268,0.253268,33,0,18,5295,13.2613,"Battery-aware, no parking"
+34,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,36.4867,0.277027,0.277027,32,0,10,12286,18.8114,"Battery-aware, no parking"
+35,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,36.3865,0.256991,0.256991,22,0,18,6417,14.3842,"Battery-aware, no parking"
+36,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,50.7418,0.244696,0.244696,45,0,21,5258,8.14258,"Battery-aware, no parking"
+37,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.4212,0.246764,0.246764,35,0,21,17888,22.5884,"Battery-aware, no parking"
+38,aware,False,False,0.008,0.006,0.35,True,,79.2163,0.176856,0.176856,55,0,37,3577,9.13884,"Battery-aware, no parking"
+39,aware,False,False,0.008,0.006,0.35,True,,88.7329,0.157638,0.157638,67,0,49,14266,26.9749,"Battery-aware, no parking"
+40,aware,False,False,0.008,0.006,0.35,True,,62.9411,0.224118,0.224118,55,0,17,1917,2.55447,"Battery-aware, no parking"
+41,aware,False,False,0.008,0.006,0.35,True,,76.3605,0.197279,0.197279,55,0,40,3300,4.07612,"Battery-aware, no parking"
+42,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,43.7729,0.21563,0.21563,36,0,26,7247,12.3181,"Battery-aware, no parking"
+43,aware,False,False,0.008,0.006,0.35,True,,63.3033,0.207216,0.207216,55,0,10,1762,3.78178,"Battery-aware, no parking"
+44,aware,False,False,0.008,0.006,0.35,True,,78.2495,0.16814,0.16814,63,0,42,4170,8.49517,"Battery-aware, no parking"
+45,aware,False,False,0.008,0.006,0.35,True,,68.6859,0.184966,0.184966,55,0,43,3626,5.01019,"Battery-aware, no parking"
+46,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,55.0569,0.221681,0.221681,35,0,32,5492,9.13877,"Battery-aware, no parking"
+47,aware,False,False,0.008,0.006,0.35,True,,84.0111,0.173884,0.173884,68,0,45,5453,13.6894,"Battery-aware, no parking"
+48,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,48.557,0.246219,0.246219,42,0,20,5685,9.51708,"Battery-aware, no parking"
+49,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,63.4523,0.223095,0.223095,52,0,28,4967,11.7204,"Battery-aware, no parking"
+50,aware,False,False,0.008,0.006,0.35,True,,97.0473,0.155761,0.155761,74,0,59,6563,9.2652,"Battery-aware, no parking"
+51,aware,False,False,0.008,0.006,0.35,True,,68.6688,0.212662,0.212662,57,0,46,3836,9.48345,"Battery-aware, no parking"
+52,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,8.23411,0.331403,0.331403,7,0,4,8950,14.6679,"Battery-aware, no parking"
+53,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,34.5163,0.280967,0.280967,28,0,24,6139,9.59819,"Battery-aware, no parking"
+54,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,39.4216,0.269612,0.269612,31,0,27,5830,8.69528,"Battery-aware, no parking"
+55,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,42.1221,0.216873,0.216873,34,0,24,4262,6.16475,"Battery-aware, no parking"
+56,aware,False,False,0.008,0.006,0.35,True,,79.9477,0.190105,0.190105,61,0,37,3899,5.29842,"Battery-aware, no parking"
+57,aware,False,False,0.008,0.006,0.35,True,,65.2329,0.219534,0.219534,55,0,40,2923,5.2336,"Battery-aware, no parking"
+58,aware,False,False,0.008,0.006,0.35,True,,77.5606,0.194879,0.194879,56,0,33,3371,5.4166,"Battery-aware, no parking"
+59,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,26.9533,0.296093,0.296093,22,0,13,9092,11.8715,"Battery-aware, no parking"
+60,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,49.6734,0.24043,0.24043,26,0,14,3840,6.37316,"Battery-aware, no parking"
+61,aware,False,False,0.008,0.006,0.35,True,,67.2254,0.215549,0.215549,55,0,17,1832,3.34479,"Battery-aware, no parking"
+62,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,42.8922,0.253641,0.253641,36,0,15,7021,11.3546,"Battery-aware, no parking"
+63,aware,False,False,0.008,0.006,0.35,True,,74.6016,0.200797,0.200797,55,0,37,3674,5.59487,"Battery-aware, no parking"
+64,aware,False,False,0.008,0.006,0.35,True,,93.281,0.163438,0.163438,69,0,51,7937,9.7023,"Battery-aware, no parking"
+65,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.1666,0.246381,0.246381,33,0,12,3867,7.15003,"Battery-aware, no parking"
+66,aware,False,False,0.008,0.006,0.35,True,,64.221,0.221558,0.221558,55,0,14,1775,3.7526,"Battery-aware, no parking"
+67,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,58.719,0.232562,0.232562,35,0,33,7243,12.8469,"Battery-aware, no parking"
+68,aware,False,False,0.008,0.006,0.35,True,,66.0478,0.174808,0.174808,55,0,41,2923,4.4213,"Battery-aware, no parking"
+69,aware,False,False,0.008,0.006,0.35,True,,68.2597,0.213481,0.213481,55,0,29,2592,4.74014,"Battery-aware, no parking"
+70,aware,False,False,0.008,0.006,0.35,True,,74.0888,0.201822,0.201822,61,0,18,2168,3.66456,"Battery-aware, no parking"
+71,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,71.6193,0.185818,0.185818,55,0,47,4342,7.59211,"Battery-aware, no parking"
+72,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,26.3692,0.293985,0.293985,21,0,18,9545,16.0043,"Battery-aware, no parking"
+73,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,24.6709,0.273609,0.273609,21,0,14,3807,6.35569,"Battery-aware, no parking"
+74,aware,False,False,0.008,0.006,0.35,True,,62.7828,0.175549,0.175549,55,0,21,1762,3.30631,"Battery-aware, no parking"
+75,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,54.5871,0.181076,0.181076,44,0,32,4030,5.99213,"Battery-aware, no parking"
+76,aware,False,False,0.008,0.006,0.35,True,,64.9517,0.220097,0.220097,55,0,30,2344,3.95746,"Battery-aware, no parking"
+77,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,37.6981,0.274604,0.274604,31,0,17,10313,18.9339,"Battery-aware, no parking"
+78,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,57.9905,0.233272,0.233272,35,0,25,4284,7.19618,"Battery-aware, no parking"
+79,aware,False,False,0.008,0.006,0.35,True,,83.4303,0.183139,0.183139,59,0,32,3084,5.82308,"Battery-aware, no parking"
+80,aware,False,False,0.008,0.006,0.35,True,,86.2716,0.177457,0.177457,68,0,48,10114,15.7147,"Battery-aware, no parking"
+81,aware,False,False,0.008,0.006,0.35,True,,75.1642,0.18286,0.18286,58,0,35,3481,8.49431,"Battery-aware, no parking"
+82,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,55.092,0.239816,0.239816,42,0,29,7543,13.0293,"Battery-aware, no parking"
+83,aware,False,False,0.008,0.006,0.35,True,,77.3853,0.195229,0.195229,57,0,49,4672,6.83821,"Battery-aware, no parking"
+84,aware,False,False,0.008,0.006,0.35,True,,74.8594,0.200281,0.200281,57,0,37,2870,4.80331,"Battery-aware, no parking"
+85,aware,False,False,0.008,0.006,0.35,True,,67.1589,0.200473,0.200473,55,0,24,2573,3.635,"Battery-aware, no parking"
+86,aware,False,False,0.008,0.006,0.35,True,,95.124,0.159306,0.159306,64,0,41,3935,6.22272,"Battery-aware, no parking"
+87,aware,False,False,0.008,0.006,0.35,True,,81.2033,0.183909,0.183909,64,0,42,5990,8.57117,"Battery-aware, no parking"
+88,aware,False,False,0.008,0.006,0.35,True,,69.0655,0.211869,0.211869,55,0,15,2266,3.01589,"Battery-aware, no parking"
+89,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,80.4135,0.173824,0.173824,64,0,44,15062,20.9698,"Battery-aware, no parking"
+90,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,28.4168,0.293166,0.293166,24,0,13,7795,12.991,"Battery-aware, no parking"
+91,aware,False,False,0.008,0.006,0.35,True,,79.7037,0.168146,0.168146,62,0,12,2248,4.00167,"Battery-aware, no parking"
+92,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,61.0763,0.227847,0.227847,39,0,26,3654,5.98455,"Battery-aware, no parking"
+93,aware,False,False,0.008,0.006,0.35,True,,63.4201,0.22316,0.22316,55,0,15,1751,3.35238,"Battery-aware, no parking"
+94,aware,False,False,0.008,0.006,0.35,True,,64.5336,0.219688,0.219688,55,0,6,1743,3.39824,"Battery-aware, no parking"
+95,aware,False,False,0.008,0.006,0.35,True,,65.5712,0.218858,0.218858,55,0,33,2454,3.5264,"Battery-aware, no parking"
+96,aware,False,False,0.008,0.006,0.35,True,,70.8196,0.208361,0.208361,56,0,45,3723,4.84466,"Battery-aware, no parking"
+97,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,73.208,0.203584,0.203584,59,0,52,9904,15.5215,"Battery-aware, no parking"
+98,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,58.5196,0.232961,0.232961,42,0,26,8131,18.8643,"Battery-aware, no parking"
+99,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,32.0024,0.285933,0.285933,27,0,17,16100,30.3025,"Battery-aware, no parking"
+100,aware,False,False,0.008,0.006,0.35,True,,85.548,0.178904,0.178904,64,0,45,3739,5.6783,"Battery-aware, no parking"
+101,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,55.8179,0.21611,0.21611,40,0,26,3684,4.85733,"Battery-aware, no parking"
+102,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.8773,0.266245,0.266245,28,0,19,40049,66.3975,"Battery-aware, no parking"
+103,aware,False,False,0.008,0.006,0.35,True,,64.9021,0.169469,0.169469,55,0,21,1804,5.13243,"Battery-aware, no parking"
+104,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,24.6245,0.300751,0.300751,18,0,16,11497,13.8899,"Battery-aware, no parking"
+105,aware,False,False,0.008,0.006,0.35,True,,69.0659,0.193505,0.193505,55,0,33,2454,3.66685,"Battery-aware, no parking"
+106,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,54.2125,0.241575,0.241575,30,0,29,5940,9.32805,"Battery-aware, no parking"
+107,aware,False,False,0.008,0.006,0.35,True,,61.8099,0.169516,0.169516,55,0,0,1608,2.68901,"Battery-aware, no parking"
+108,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,17.3747,0.313738,0.313738,12,0,11,8030,13.9709,"Battery-aware, no parking"
+109,aware,False,False,0.008,0.006,0.35,True,,72.9605,0.204079,0.204079,57,0,21,2302,3.62373,"Battery-aware, no parking"
+110,aware,False,False,0.008,0.006,0.35,True,,72.3048,0.184553,0.184553,55,0,47,3673,5.51139,"Battery-aware, no parking"
+111,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.4839,0.267032,0.267032,33,0,29,7934,13.3396,"Battery-aware, no parking"
+112,aware,False,False,0.008,0.006,0.35,True,,69.7213,0.210557,0.210557,55,0,44,3528,5.41141,"Battery-aware, no parking"
+113,aware,False,False,0.008,0.006,0.35,True,,87.9044,0.173336,0.173336,66,0,30,4483,7.7245,"Battery-aware, no parking"
+114,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,37.4643,0.217773,0.217773,27,0,22,7040,11.1119,"Battery-aware, no parking"
+115,aware,False,False,0.008,0.006,0.35,True,,88.4374,0.173125,0.173125,58,0,38,4058,5.87828,"Battery-aware, no parking"
+116,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,79.535,0.189018,0.189018,45,0,26,3801,6.43478,"Battery-aware, no parking"
+117,aware,False,False,0.008,0.006,0.35,True,,63.2356,0.223529,0.223529,55,0,24,1919,2.86642,"Battery-aware, no parking"
+118,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,30.6506,0.288699,0.288699,18,0,17,7050,10.5972,"Battery-aware, no parking"
+119,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,67.4859,0.207626,0.207626,54,0,33,9562,15.3234,"Battery-aware, no parking"
+120,aware,False,False,0.008,0.006,0.35,True,,90.8725,0.168255,0.168255,71,0,51,6502,10.466,"Battery-aware, no parking"
+121,aware,False,False,0.008,0.006,0.35,True,,88.4892,0.170945,0.170945,63,0,37,4465,7.5703,"Battery-aware, no parking"
+122,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,33.2017,0.246103,0.246103,23,0,20,9497,13.9148,"Battery-aware, no parking"
+123,aware,False,False,0.008,0.006,0.35,True,,74.955,0.184569,0.184569,56,0,29,2346,3.6198,"Battery-aware, no parking"
+124,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,50.073,0.232354,0.232354,38,0,30,6076,9.34021,"Battery-aware, no parking"
+125,aware,False,False,0.008,0.006,0.35,True,,88.4982,0.163184,0.163184,55,0,30,3719,7.19235,"Battery-aware, no parking"
+126,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,27.0661,0.257415,0.257415,21,0,18,5402,9.07921,"Battery-aware, no parking"
+127,aware,False,False,0.008,0.006,0.35,True,,82.0443,0.185911,0.185911,63,0,48,4192,5.56349,"Battery-aware, no parking"
+128,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,30.7492,0.265313,0.265313,27,0,12,6178,9.05826,"Battery-aware, no parking"
+129,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.9002,0.261706,0.261706,29,0,16,4464,8.06074,"Battery-aware, no parking"
+130,aware,False,False,0.008,0.006,0.35,True,,86.6675,0.176665,0.176665,70,0,42,5365,7.48333,"Battery-aware, no parking"
+131,aware,False,False,0.008,0.006,0.35,True,,94.7297,0.157543,0.157543,63,0,48,5598,8.87929,"Battery-aware, no parking"
+132,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,30.1121,0.281733,0.281733,14,0,11,6715,9.14721,"Battery-aware, no parking"
+133,aware,False,False,0.008,0.006,0.35,True,,77.4089,0.1944,0.1944,55,0,38,3207,4.51604,"Battery-aware, no parking"
+134,aware,False,False,0.008,0.006,0.35,True,,74.1888,0.194379,0.194379,60,0,34,3208,5.00262,"Battery-aware, no parking"
+135,aware,False,False,0.008,0.006,0.35,True,,77.1581,0.195684,0.195684,55,0,34,3101,4.58422,"Battery-aware, no parking"
+136,aware,False,False,0.008,0.006,0.35,True,,63.7313,0.183897,0.183897,55,0,19,1894,2.88459,"Battery-aware, no parking"
+137,aware,False,False,0.008,0.006,0.35,True,,66.6834,0.208622,0.208622,55,0,22,2123,3.70663,"Battery-aware, no parking"
+138,aware,False,False,0.008,0.006,0.35,True,,76.693,0.196614,0.196614,61,0,38,2869,5.10183,"Battery-aware, no parking"
+139,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,22.7476,0.294293,0.294293,18,0,9,5738,11.1449,"Battery-aware, no parking"
+140,aware,False,False,0.008,0.006,0.35,True,,66.0536,0.161515,0.161515,55,0,34,2817,4.30397,"Battery-aware, no parking"
+141,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,21.2037,0.307593,0.307593,16,0,14,7003,12.5672,"Battery-aware, no parking"
+142,aware,False,False,0.008,0.006,0.35,True,,80.4965,0.155688,0.155688,57,0,44,13692,20.6575,"Battery-aware, no parking"
+143,aware,False,False,0.008,0.006,0.35,True,,63.1223,0.190356,0.190356,55,0,21,2087,2.73094,"Battery-aware, no parking"
+144,aware,False,False,0.008,0.006,0.35,True,,86.883,0.176234,0.176234,67,0,50,6958,8.43016,"Battery-aware, no parking"
+145,aware,False,False,0.008,0.006,0.35,True,,65.8486,0.202663,0.202663,55,0,34,2448,3.8284,"Battery-aware, no parking"
+146,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,28.9949,0.27775,0.27775,22,0,19,5835,9.91581,"Battery-aware, no parking"
+147,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,42.3639,0.218251,0.218251,34,0,15,4746,7.72649,"Battery-aware, no parking"
+148,aware,False,False,0.008,0.006,0.35,True,,63.5203,0.222959,0.222959,55,0,14,2131,3.61902,"Battery-aware, no parking"
+149,aware,False,False,0.008,0.006,0.35,True,,62.5382,0.224924,0.224924,55,0,14,2383,3.49903,"Battery-aware, no parking"
+150,aware,False,False,0.008,0.006,0.35,True,,60.7712,0.228458,0.228458,55,0,4,1720,4.20548,"Battery-aware, no parking"
+151,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,17.5627,0.314875,0.314875,14,0,12,6663,12.1034,"Battery-aware, no parking"
+152,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,74.6628,0.200674,0.200674,61,0,44,5033,9.12822,"Battery-aware, no parking"
+153,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,33.8234,0.242289,0.242289,27,0,21,5543,6.93459,"Battery-aware, no parking"
+154,aware,False,False,0.008,0.006,0.35,True,,63.1621,0.223676,0.223676,55,0,11,2054,4.05014,"Battery-aware, no parking"
+155,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.3055,0.246667,0.246667,27,0,23,8461,13.5465,"Battery-aware, no parking"
+156,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,41.0092,0.25717,0.25717,34,0,25,5846,12.5995,"Battery-aware, no parking"
+157,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,40.8445,0.266359,0.266359,35,0,7,6874,12.1679,"Battery-aware, no parking"
+158,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,65.5272,0.176552,0.176552,49,0,14,2281,6.98887,"Battery-aware, no parking"
+159,aware,False,False,0.008,0.006,0.35,True,,69.9221,0.210156,0.210156,55,0,44,3117,7.255,"Battery-aware, no parking"
+160,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,24.0202,0.30196,0.30196,16,0,6,6643,10.9185,"Battery-aware, no parking"
+161,aware,False,False,0.008,0.006,0.35,True,,75.0075,0.199285,0.199285,56,0,42,4364,11.121,"Battery-aware, no parking"
+162,aware,False,False,0.008,0.006,0.35,True,,71.8711,0.206258,0.206258,55,0,43,2865,5.03489,"Battery-aware, no parking"
+163,aware,False,False,0.008,0.006,0.35,True,,90.6624,0.168675,0.168675,71,0,40,9972,18.8797,"Battery-aware, no parking"
+164,aware,False,False,0.008,0.006,0.35,True,,71.4359,0.207128,0.207128,57,0,36,3040,5.98381,"Battery-aware, no parking"
+165,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,24.2335,0.301533,0.301533,19,0,15,9795,26.1117,"Battery-aware, no parking"
+166,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,20.3355,0.283231,0.283231,18,0,9,4965,8.08422,"Battery-aware, no parking"
+167,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,58.9431,0.21175,0.21175,51,0,14,2541,4.3186,"Battery-aware, no parking"
+168,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,59.0507,0.231899,0.231899,46,0,27,7113,8.82097,"Battery-aware, no parking"
+169,aware,False,False,0.008,0.006,0.35,True,,70.3735,0.159284,0.159284,55,0,23,3959,6.87041,"Battery-aware, no parking"
+170,aware,False,False,0.008,0.006,0.35,True,,88.2512,0.173498,0.173498,65,0,45,7597,10.4766,"Battery-aware, no parking"
+171,aware,False,False,0.008,0.006,0.35,True,,65.9181,0.197006,0.197006,55,0,41,2716,4.33147,"Battery-aware, no parking"
+172,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,45.7873,0.24514,0.24514,33,0,31,12360,20.8661,"Battery-aware, no parking"
+173,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,35.0167,0.246748,0.246748,30,0,6,9706,14.9986,"Battery-aware, no parking"
+174,aware,False,False,0.008,0.006,0.35,True,,62.5705,0.209969,0.209969,55,0,21,1857,2.91181,"Battery-aware, no parking"
+175,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,44.9035,0.253266,0.253266,37,0,25,11000,17.1637,"Battery-aware, no parking"
+176,aware,False,False,0.008,0.006,0.35,True,,66.0578,0.173529,0.173529,55,0,35,2694,3.55871,"Battery-aware, no parking"
+177,aware,False,False,0.008,0.006,0.35,True,,84.327,0.160894,0.160894,60,0,46,11134,18.1324,"Battery-aware, no parking"
+178,aware,False,False,0.008,0.006,0.35,True,,83.6156,0.176353,0.176353,59,0,33,2842,5.47068,"Battery-aware, no parking"
+179,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,14.8888,0.292356,0.292356,11,0,9,11766,17.3148,"Battery-aware, no parking"
+180,aware,False,False,0.008,0.006,0.35,True,,74.9142,0.194544,0.194544,55,0,32,2709,3.93885,"Battery-aware, no parking"
+181,aware,False,False,0.008,0.006,0.35,True,,84.252,0.178112,0.178112,63,0,46,5206,6.62071,"Battery-aware, no parking"
+182,aware,False,False,0.008,0.006,0.35,True,,67.4825,0.213364,0.213364,55,0,38,2726,4.48979,"Battery-aware, no parking"
+183,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,42.9133,0.229549,0.229549,30,0,24,3938,7.56961,"Battery-aware, no parking"
+184,aware,False,False,0.008,0.006,0.35,True,,67.3155,0.185457,0.185457,56,0,28,2422,3.9716,"Battery-aware, no parking"
+185,aware,False,False,0.008,0.006,0.35,True,,69.5117,0.210977,0.210977,58,0,14,1883,3.38282,"Battery-aware, no parking"
+186,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,57.3392,0.217968,0.217968,48,0,22,4372,5.96438,"Battery-aware, no parking"
+187,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,75.1229,0.188735,0.188735,56,0,39,4417,8.94217,"Battery-aware, no parking"
+188,aware,False,False,0.008,0.006,0.35,True,,63.805,0.206939,0.206939,55,0,4,1691,2.5962,"Battery-aware, no parking"
+189,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,27.2639,0.295472,0.295472,25,0,12,8955,11.7863,"Battery-aware, no parking"
+190,aware,False,False,0.008,0.006,0.35,True,,74.0858,0.201828,0.201828,56,0,34,2914,4.93304,"Battery-aware, no parking"
+191,aware,False,False,0.008,0.006,0.35,True,,99.1348,0.15173,0.15173,75,0,35,4881,9.23664,"Battery-aware, no parking"
+192,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,51.0468,0.247906,0.247906,44,0,13,6193,10.5612,"Battery-aware, no parking"
+193,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,31.1109,0.287778,0.287778,24,0,21,9741,17.2026,"Battery-aware, no parking"
+194,aware,False,False,0.008,0.006,0.35,True,,63.9422,0.222116,0.222116,55,0,25,2109,3.5083,"Battery-aware, no parking"
+195,aware,False,False,0.008,0.006,0.35,True,,62.5369,0.224692,0.224692,55,0,21,1967,2.93249,"Battery-aware, no parking"
+196,aware,False,False,0.008,0.006,0.35,True,,64.7907,0.218671,0.218671,55,0,29,2562,3.07745,"Battery-aware, no parking"
+197,aware,False,False,0.008,0.006,0.35,True,,81.1187,0.166247,0.166247,58,0,24,2183,3.66684,"Battery-aware, no parking"
+198,aware,False,False,0.008,0.006,0.35,True,,85.0549,0.161934,0.161934,60,0,34,3982,5.67956,"Battery-aware, no parking"
+199,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,39.8869,0.227519,0.227519,32,0,23,4864,6.40611,"Battery-aware, no parking"
+200,aware,False,False,0.008,0.006,0.35,False,stranded: no path keeps the battery above the minimum,68.0316,0.203079,0.203079,39,0,29,3810,6.59605,"Battery-aware, no parking"
+1,aware,False,True,0.008,0.006,0.35,True,,68.1384,0.200252,0.200252,55,0,24,2259,3.86784,Battery-aware
+2,aware,False,True,0.008,0.006,0.35,True,,74.7943,0.174265,0.174265,55,0,34,3298,5.70003,Battery-aware
+3,aware,False,True,0.008,0.006,0.35,True,,103.515,0.158729,0.151042,70,1,50,18813,28.3535,Battery-aware
+4,aware,False,True,0.008,0.006,0.35,True,,109.025,0.16195,0.161461,75,1,61,7581,14.0433,Battery-aware
+5,aware,False,True,0.008,0.006,0.35,True,,267.144,0.15509,0.150564,103,16,79,150320,266.506,Battery-aware
+6,aware,False,True,0.008,0.006,0.35,True,,69.966,0.210008,0.210008,55,0,24,2237,2.94255,Battery-aware
+7,aware,False,True,0.008,0.006,0.35,True,,83.6365,0.182727,0.182727,64,0,51,4701,8.81532,Battery-aware
+8,aware,False,True,0.008,0.006,0.35,True,,64.2701,0.22146,0.22146,55,0,26,2224,3.11593,Battery-aware
+9,aware,False,True,0.008,0.006,0.35,True,,93.679,0.159107,0.159107,72,0,55,27673,45.755,Battery-aware
+10,aware,False,True,0.008,0.006,0.35,True,,89.6666,0.170667,0.170667,66,0,37,4324,6.4081,Battery-aware
+11,aware,False,True,0.008,0.006,0.35,True,,91.0331,0.166147,0.166147,65,0,41,3339,6.80404,Battery-aware
+12,aware,False,True,0.008,0.006,0.35,True,,97.3715,0.155257,0.155257,73,0,52,17629,27.0095,Battery-aware
+13,aware,False,True,0.008,0.006,0.35,True,,97.1258,0.160072,0.152712,71,1,54,8342,12.8784,Battery-aware
+14,aware,False,True,0.008,0.006,0.35,True,,101.043,0.168847,0.151785,63,2,32,9994,15.9994,Battery-aware
+15,aware,False,True,0.008,0.006,0.35,True,,86.3779,0.177244,0.177244,63,0,42,3956,6.70045,Battery-aware
+16,aware,False,True,0.008,0.006,0.35,True,,66.7961,0.187199,0.187199,55,0,38,3326,4.92137,Battery-aware
+17,aware,False,True,0.008,0.006,0.35,True,,126.246,0.168639,0.157153,58,3,44,10603,15.9078,Battery-aware
+18,aware,False,True,0.008,0.006,0.35,True,,244.267,0.160762,0.154711,112,11,85,56825,108.407,Battery-aware
+19,aware,False,True,0.008,0.006,0.35,True,,102.124,0.165483,0.151824,79,1,52,45444,82.202,Battery-aware
+20,aware,False,True,0.008,0.006,0.35,True,,95.3179,0.167328,0.150594,67,2,36,11247,14.9031,Battery-aware
+21,aware,False,True,0.008,0.006,0.35,True,,107.35,0.15338,0.15338,67,1,47,12399,19.3845,Battery-aware
+22,aware,False,True,0.008,0.006,0.35,True,,84.6523,0.152062,0.152062,61,0,45,5292,7.72493,Battery-aware
+23,aware,False,True,0.008,0.006,0.35,True,,130.417,0.165705,0.165705,69,3,52,6084,10.8282,Battery-aware
+24,aware,False,True,0.008,0.006,0.35,True,,108.277,0.160605,0.150253,76,2,56,19310,30.0534,Battery-aware
+25,aware,False,True,0.008,0.006,0.35,True,,117.925,0.16366,0.150459,69,3,50,35441,66.1303,Battery-aware
+26,aware,False,True,0.008,0.006,0.35,True,,65.5855,0.217691,0.217691,55,0,8,1757,2.70183,Battery-aware
+27,aware,False,True,0.008,0.006,0.35,True,,176.198,0.167742,0.151579,121,6,98,90623,162.313,Battery-aware
+28,aware,False,True,0.008,0.006,0.35,True,,91.0858,0.1613,0.1613,66,0,44,5717,9.09903,Battery-aware
+29,aware,False,True,0.008,0.006,0.35,True,,65.9145,0.218171,0.218171,55,0,25,1935,2.8887,Battery-aware
+30,aware,False,True,0.008,0.006,0.35,True,,72.8335,0.198579,0.198579,55,0,38,3278,5.16146,Battery-aware
+31,aware,False,True,0.008,0.006,0.35,True,,74.6618,0.200676,0.200676,57,0,15,3796,5.55009,Battery-aware
+32,aware,False,True,0.008,0.006,0.35,True,,61.906,0.226188,0.226188,55,0,25,2310,3.07621,Battery-aware
+33,aware,False,True,0.008,0.006,0.35,True,,146.137,0.155012,0.155012,81,4,59,32942,57.834,Battery-aware
+34,aware,False,True,0.008,0.006,0.35,True,,157.39,0.15522,0.15522,106,4,73,69291,124.667,Battery-aware
+35,aware,False,True,0.008,0.006,0.35,True,,111.103,0.167558,0.15093,73,2,53,21658,35.81,Battery-aware
+36,aware,False,True,0.008,0.006,0.35,True,,99.9867,0.163726,0.151111,77,2,45,8102,14.3921,Battery-aware
+37,aware,False,True,0.008,0.006,0.35,True,,129.761,0.160085,0.151081,94,3,72,68740,108.363,Battery-aware
+38,aware,False,True,0.008,0.006,0.35,True,,79.2163,0.176856,0.176856,55,0,39,3583,6.55466,Battery-aware
+39,aware,False,True,0.008,0.006,0.35,True,,88.7329,0.157638,0.157638,67,0,49,14416,20.6654,Battery-aware
+40,aware,False,True,0.008,0.006,0.35,True,,62.9411,0.224118,0.224118,55,0,17,1917,2.91766,Battery-aware
+41,aware,False,True,0.008,0.006,0.35,True,,76.3605,0.197279,0.197279,55,0,40,3301,4.89234,Battery-aware
+42,aware,False,True,0.008,0.006,0.35,True,,98.8827,0.16541,0.150094,76,2,54,14124,24.7441,Battery-aware
+43,aware,False,True,0.008,0.006,0.35,True,,63.3033,0.207216,0.207216,55,0,10,1762,2.88875,Battery-aware
+44,aware,False,True,0.008,0.006,0.35,True,,78.2495,0.16814,0.16814,63,0,43,4233,6.5509,Battery-aware
+45,aware,False,True,0.008,0.006,0.35,True,,68.6859,0.184966,0.184966,55,0,41,3626,5.14366,Battery-aware
+46,aware,False,True,0.008,0.006,0.35,True,,140.496,0.167142,0.150126,65,4,55,11381,20.609,Battery-aware
+47,aware,False,True,0.008,0.006,0.35,True,,84.0111,0.173884,0.173884,68,0,47,5664,10.0369,Battery-aware
+48,aware,False,True,0.008,0.006,0.35,True,,204.499,0.166624,0.15102,108,8,77,39444,77.0421,Battery-aware
+49,aware,False,True,0.008,0.006,0.35,True,,119.721,0.161004,0.150057,88,2,46,8581,12.9237,Battery-aware
+50,aware,False,True,0.008,0.006,0.35,True,,97.0473,0.155761,0.155761,74,0,60,6680,9.07409,Battery-aware
+51,aware,False,True,0.008,0.006,0.35,True,,68.6688,0.212662,0.212662,57,0,46,3842,6.6527,Battery-aware
+52,aware,False,True,0.008,0.006,0.35,True,,130.141,0.154145,0.151815,92,3,77,126904,248.448,Battery-aware
+53,aware,False,True,0.008,0.006,0.35,True,,124.412,0.163229,0.150513,70,3,55,26566,46.4244,Battery-aware
+54,aware,False,True,0.008,0.006,0.35,True,,97.7029,0.162141,0.151121,57,2,47,6356,11.9771,Battery-aware
+55,aware,False,True,0.008,0.006,0.35,True,,70.895,0.166543,0.151262,56,1,31,5188,8.631,Battery-aware
+56,aware,False,True,0.008,0.006,0.35,True,,79.9477,0.190105,0.190105,61,0,37,4039,5.86513,Battery-aware
+57,aware,False,True,0.008,0.006,0.35,True,,65.2329,0.219534,0.219534,55,0,38,2925,5.66299,Battery-aware
+58,aware,False,True,0.008,0.006,0.35,True,,77.5606,0.194879,0.194879,56,0,33,3371,6.97785,Battery-aware
+59,aware,False,True,0.008,0.006,0.35,True,,109.289,0.15892,0.15037,83,1,67,52296,71.9589,Battery-aware
+60,aware,False,True,0.008,0.006,0.35,True,,99.4848,0.158789,0.151349,56,1,37,8303,16.7795,Battery-aware
+61,aware,False,True,0.008,0.006,0.35,True,,67.2254,0.215549,0.215549,55,0,17,1832,3.36448,Battery-aware
+62,aware,False,True,0.008,0.006,0.35,True,,136.861,0.155702,0.150494,97,3,57,42533,76.5621,Battery-aware
+63,aware,False,True,0.008,0.006,0.35,True,,74.6016,0.200797,0.200797,55,0,38,3674,5.83793,Battery-aware
+64,aware,False,True,0.008,0.006,0.35,True,,93.281,0.163438,0.163438,69,0,52,8222,10.3788,Battery-aware
+65,aware,False,True,0.008,0.006,0.35,True,,89.1775,0.163732,0.150396,64,2,34,7916,13.9951,Battery-aware
+66,aware,False,True,0.008,0.006,0.35,True,,64.221,0.221558,0.221558,55,0,14,1775,3.34129,Battery-aware
+67,aware,False,True,0.008,0.006,0.35,True,,209.203,0.156894,0.150518,72,12,49,25930,78.38,Battery-aware
+68,aware,False,True,0.008,0.006,0.35,True,,66.0478,0.174808,0.174808,55,0,42,2923,4.39469,Battery-aware
+69,aware,False,True,0.008,0.006,0.35,True,,68.2597,0.213481,0.213481,55,0,30,2592,5.57186,Battery-aware
+70,aware,False,True,0.008,0.006,0.35,True,,74.0888,0.201822,0.201822,61,0,17,2186,6.66134,Battery-aware
+71,aware,False,True,0.008,0.006,0.35,True,,110.544,0.167968,0.151087,64,2,51,5378,19.0271,Battery-aware
+72,aware,False,True,0.008,0.006,0.35,True,,128.35,0.150023,0.150023,83,2,60,40172,72.2761,Battery-aware
+73,aware,False,True,0.008,0.006,0.35,True,,82.0588,0.153311,0.152072,57,1,34,8648,17.1075,Battery-aware
+74,aware,False,True,0.008,0.006,0.35,True,,62.7828,0.175549,0.175549,55,0,21,1762,4.27714,Battery-aware
+75,aware,False,True,0.008,0.006,0.35,True,,76.1624,0.167926,0.167926,60,1,33,4056,10.3117,Battery-aware
+76,aware,False,True,0.008,0.006,0.35,True,,64.9517,0.220097,0.220097,55,0,30,2344,5.45211,Battery-aware
+77,aware,False,True,0.008,0.006,0.35,True,,120.906,0.168188,0.150418,89,2,65,41107,81.9164,Battery-aware
+78,aware,False,True,0.008,0.006,0.35,True,,112.171,0.152397,0.150211,61,1,44,6143,11.9366,Battery-aware
+79,aware,False,True,0.008,0.006,0.35,True,,83.4303,0.183139,0.183139,59,0,34,3086,6.25013,Battery-aware
+80,aware,False,True,0.008,0.006,0.35,True,,86.2716,0.177457,0.177457,68,0,49,10223,17.9059,Battery-aware
+81,aware,False,True,0.008,0.006,0.35,True,,75.1642,0.18286,0.18286,58,0,35,3497,6.33899,Battery-aware
+82,aware,False,True,0.008,0.006,0.35,True,,110.909,0.15723,0.156398,85,1,57,16812,30.4007,Battery-aware
+83,aware,False,True,0.008,0.006,0.35,True,,77.3853,0.195229,0.195229,57,0,47,4897,8.59138,Battery-aware
+84,aware,False,True,0.008,0.006,0.35,True,,74.8594,0.200281,0.200281,57,0,37,2880,5.50917,Battery-aware
+85,aware,False,True,0.008,0.006,0.35,True,,67.1589,0.200473,0.200473,55,0,24,2573,4.29777,Battery-aware
+86,aware,False,True,0.008,0.006,0.35,True,,95.124,0.159306,0.159306,64,0,42,3980,7.71873,Battery-aware
+87,aware,False,True,0.008,0.006,0.35,True,,81.2033,0.183909,0.183909,64,0,42,6108,10.9467,Battery-aware
+88,aware,False,True,0.008,0.006,0.35,True,,69.0655,0.211869,0.211869,55,0,15,2268,3.83913,Battery-aware
+89,aware,False,True,0.008,0.006,0.35,True,,97.2532,0.161094,0.155407,70,1,46,15542,21.5703,Battery-aware
+90,aware,False,True,0.008,0.006,0.35,True,,152.606,0.155969,0.152458,110,4,85,121291,254.774,Battery-aware
+91,aware,False,True,0.008,0.006,0.35,True,,79.7037,0.168146,0.168146,62,0,12,2469,4.37744,Battery-aware
+92,aware,False,True,0.008,0.006,0.35,True,,114.197,0.151606,0.151606,56,1,33,4322,7.81644,Battery-aware
+93,aware,False,True,0.008,0.006,0.35,True,,63.4201,0.22316,0.22316,55,0,15,1751,3.14909,Battery-aware
+94,aware,False,True,0.008,0.006,0.35,True,,64.5336,0.219688,0.219688,55,0,6,1743,3.37693,Battery-aware
+95,aware,False,True,0.008,0.006,0.35,True,,65.5712,0.218858,0.218858,55,0,34,2411,3.74572,Battery-aware
+96,aware,False,True,0.008,0.006,0.35,True,,70.8196,0.208361,0.208361,56,0,45,3738,6.01304,Battery-aware
+97,aware,False,True,0.008,0.006,0.35,True,,109.398,0.161205,0.154183,82,1,70,11174,20.0292,Battery-aware
+98,aware,False,True,0.008,0.006,0.35,True,,112.991,0.154018,0.154018,80,1,52,13827,30.1774,Battery-aware
+99,aware,False,True,0.008,0.006,0.35,True,,118.454,0.167459,0.150747,86,3,68,66393,131.667,Battery-aware
+100,aware,False,True,0.008,0.006,0.35,True,,85.548,0.178904,0.178904,64,0,46,3753,5.91205,Battery-aware
+101,aware,False,True,0.008,0.006,0.35,True,,89.1228,0.155084,0.150822,59,1,34,3761,6.06543,Battery-aware
+102,aware,False,True,0.008,0.006,0.35,True,,122.142,0.165715,0.150863,82,2,63,60621,116.232,Battery-aware
+103,aware,False,True,0.008,0.006,0.35,True,,64.9021,0.169469,0.169469,55,0,21,1804,3.42161,Battery-aware
+104,aware,False,True,0.008,0.006,0.35,True,,101.1,0.168657,0.151778,73,1,64,20402,32.1571,Battery-aware
+105,aware,False,True,0.008,0.006,0.35,True,,69.0659,0.193505,0.193505,55,0,33,2454,4.25403,Battery-aware
+106,aware,False,True,0.008,0.006,0.35,True,,112.301,0.155398,0.155398,62,1,47,5615,13.4613,Battery-aware
+107,aware,False,True,0.008,0.006,0.35,True,,61.8099,0.169516,0.169516,55,0,0,1608,3.90963,Battery-aware
+108,aware,False,True,0.008,0.006,0.35,True,,188.782,0.150923,0.150923,124,6,104,80140,174.685,Battery-aware
+109,aware,False,True,0.008,0.006,0.35,True,,72.9605,0.204079,0.204079,57,0,21,2302,4.15778,Battery-aware
+110,aware,False,True,0.008,0.006,0.35,True,,72.3048,0.184553,0.184553,55,0,48,3673,5.93365,Battery-aware
+111,aware,False,True,0.008,0.006,0.35,True,,178.138,0.168782,0.150176,102,7,89,57801,116.903,Battery-aware
+112,aware,False,True,0.008,0.006,0.35,True,,69.7213,0.210557,0.210557,55,0,44,3497,5.23901,Battery-aware
+113,aware,False,True,0.008,0.006,0.35,True,,87.9044,0.173336,0.173336,66,0,32,4622,8.95605,Battery-aware
+114,aware,False,True,0.008,0.006,0.35,True,,88.8268,0.161589,0.152842,59,2,44,13596,25.459,Battery-aware
+115,aware,False,True,0.008,0.006,0.35,True,,88.4374,0.173125,0.173125,58,0,40,4091,6.89778,Battery-aware
+116,aware,False,True,0.008,0.006,0.35,True,,104.604,0.169385,0.152571,78,1,41,6448,11.7885,Battery-aware
+117,aware,False,True,0.008,0.006,0.35,True,,63.2356,0.223529,0.223529,55,0,24,1919,2.91754,Battery-aware
+118,aware,False,True,0.008,0.006,0.35,True,,110.23,0.150245,0.150245,71,1,54,14321,21.6031,Battery-aware
+119,aware,False,True,0.008,0.006,0.35,True,,129.467,0.169455,0.150454,87,3,51,17321,35.9694,Battery-aware
+120,aware,False,True,0.008,0.006,0.35,True,,90.8725,0.168255,0.168255,71,0,51,6960,12.2687,Battery-aware
+121,aware,False,True,0.008,0.006,0.35,True,,88.4892,0.170945,0.170945,63,0,37,4513,6.99215,Battery-aware
+122,aware,False,True,0.008,0.006,0.35,True,,113.419,0.154264,0.151614,69,3,56,29874,45.9692,Battery-aware
+123,aware,False,True,0.008,0.006,0.35,True,,74.955,0.184569,0.184569,56,0,28,2346,3.64353,Battery-aware
+124,aware,False,True,0.008,0.006,0.35,True,,106.083,0.150335,0.150335,81,1,56,12899,22.8221,Battery-aware
+125,aware,False,True,0.008,0.006,0.35,True,,88.4982,0.163184,0.163184,55,0,30,4009,7.64672,Battery-aware
+126,aware,False,True,0.008,0.006,0.35,True,,134.332,0.162884,0.15058,91,4,74,75986,152.085,Battery-aware
+127,aware,False,True,0.008,0.006,0.35,True,,82.0443,0.185911,0.185911,63,0,49,4293,6.51239,Battery-aware
+128,aware,False,True,0.008,0.006,0.35,True,,96.6575,0.162247,0.162247,67,2,28,9215,13.7905,Battery-aware
+129,aware,False,True,0.008,0.006,0.35,True,,135.246,0.158749,0.150275,59,4,35,8328,14.8357,Battery-aware
+130,aware,False,True,0.008,0.006,0.35,True,,86.6675,0.176665,0.176665,70,0,43,5556,8.39968,Battery-aware
+131,aware,False,True,0.008,0.006,0.35,True,,94.7297,0.157543,0.157543,63,0,50,5696,9.10871,Battery-aware
+132,aware,False,True,0.008,0.006,0.35,True,,148.984,0.16915,0.150709,90,5,81,80397,124.584,Battery-aware
+133,aware,False,True,0.008,0.006,0.35,True,,77.4089,0.1944,0.1944,55,0,38,3266,5.0708,Battery-aware
+134,aware,False,True,0.008,0.006,0.35,True,,74.1888,0.194379,0.194379,60,0,32,3253,6.10319,Battery-aware
+135,aware,False,True,0.008,0.006,0.35,True,,77.1581,0.195684,0.195684,55,0,35,3116,4.74895,Battery-aware
+136,aware,False,True,0.008,0.006,0.35,True,,63.7313,0.183897,0.183897,55,0,19,1894,3.03549,Battery-aware
+137,aware,False,True,0.008,0.006,0.35,True,,66.6834,0.208622,0.208622,55,0,22,2123,3.88414,Battery-aware
+138,aware,False,True,0.008,0.006,0.35,True,,76.693,0.196614,0.196614,61,0,38,2869,5.58667,Battery-aware
+139,aware,False,True,0.008,0.006,0.35,True,,157.995,0.155033,0.15082,102,5,81,182159,414.682,Battery-aware
+140,aware,False,True,0.008,0.006,0.35,True,,66.0536,0.161515,0.161515,55,0,35,2817,4.86257,Battery-aware
+141,aware,False,True,0.008,0.006,0.35,True,,179.078,0.153028,0.153028,83,7,69,49819,104.245,Battery-aware
+142,aware,False,True,0.008,0.006,0.35,True,,80.4965,0.155688,0.155688,57,0,44,13729,22.5195,Battery-aware
+143,aware,False,True,0.008,0.006,0.35,True,,63.1223,0.190356,0.190356,55,0,21,2087,2.8989,Battery-aware
+144,aware,False,True,0.008,0.006,0.35,True,,86.883,0.176234,0.176234,67,0,51,7128,10.0138,Battery-aware
+145,aware,False,True,0.008,0.006,0.35,True,,65.8486,0.202663,0.202663,55,0,35,2448,4.37944,Battery-aware
+146,aware,False,True,0.008,0.006,0.35,True,,137.163,0.164376,0.150671,72,6,51,29023,57.0664,Battery-aware
+147,aware,False,True,0.008,0.006,0.35,True,,142.299,0.168382,0.150959,93,5,67,38158,66.4644,Battery-aware
+148,aware,False,True,0.008,0.006,0.35,True,,63.5203,0.222959,0.222959,55,0,14,2131,4.20369,Battery-aware
+149,aware,False,True,0.008,0.006,0.35,True,,62.5382,0.224924,0.224924,55,0,14,2378,3.23197,Battery-aware
+150,aware,False,True,0.008,0.006,0.35,True,,60.7712,0.228458,0.228458,55,0,4,1720,2.63408,Battery-aware
+151,aware,False,True,0.008,0.006,0.35,True,,150.355,0.165427,0.151033,61,6,49,30184,62.7471,Battery-aware
+152,aware,False,True,0.008,0.006,0.35,True,,109.219,0.161563,0.151149,84,1,62,6303,10.0411,Battery-aware
+153,aware,False,True,0.008,0.006,0.35,True,,180.944,0.162485,0.162485,114,8,88,135513,229.263,Battery-aware
+154,aware,False,True,0.008,0.006,0.35,True,,63.1621,0.223676,0.223676,55,0,11,2054,3.17305,Battery-aware
+155,aware,False,True,0.008,0.006,0.35,True,,97.2531,0.166296,0.152686,62,2,45,15979,26.6928,Battery-aware
+156,aware,False,True,0.008,0.006,0.35,True,,96.801,0.169899,0.152255,61,2,47,8629,13.9724,Battery-aware
+157,aware,False,True,0.008,0.006,0.35,True,,198.164,0.150928,0.150928,104,15,61,34359,48.3185,Battery-aware
+158,aware,False,True,0.008,0.006,0.35,True,,87.2614,0.163084,0.151367,57,1,18,2415,4.46696,Battery-aware
+159,aware,False,True,0.008,0.006,0.35,True,,69.9221,0.210156,0.210156,55,0,44,3117,4.64156,Battery-aware
+160,aware,False,True,0.008,0.006,0.35,True,,211.268,0.165206,0.151564,102,10,72,51626,79.3778,Battery-aware
+161,aware,False,True,0.008,0.006,0.35,True,,75.0075,0.199285,0.199285,56,0,42,4477,6.94655,Battery-aware
+162,aware,False,True,0.008,0.006,0.35,True,,71.8711,0.206258,0.206258,55,0,43,2865,4.491,Battery-aware
+163,aware,False,True,0.008,0.006,0.35,True,,90.6624,0.168675,0.168675,71,0,41,10104,19.0118,Battery-aware
+164,aware,False,True,0.008,0.006,0.35,True,,71.4359,0.207128,0.207128,57,0,36,3043,4.85772,Battery-aware
+165,aware,False,True,0.008,0.006,0.35,True,,158.733,0.16054,0.151191,77,6,60,61462,129.073,Battery-aware
+166,aware,False,True,0.008,0.006,0.35,True,,192.04,0.16037,0.16037,118,10,84,90212,178.041,Battery-aware
+167,aware,False,True,0.008,0.006,0.35,True,,89.1866,0.160893,0.160893,62,2,23,5289,8.77073,Battery-aware
+168,aware,False,True,0.008,0.006,0.35,True,,135.654,0.168691,0.151961,96,3,65,23326,32.3683,Battery-aware
+169,aware,False,True,0.008,0.006,0.35,True,,70.3735,0.159284,0.159284,55,0,23,3967,6.67101,Battery-aware
+170,aware,False,True,0.008,0.006,0.35,True,,88.2512,0.173498,0.173498,65,0,45,7684,11.0671,Battery-aware
+171,aware,False,True,0.008,0.006,0.35,True,,65.9181,0.197006,0.197006,55,0,41,2732,5.39453,Battery-aware
+172,aware,False,True,0.008,0.006,0.35,True,,101.899,0.159186,0.150258,74,1,61,21716,37.7667,Battery-aware
+173,aware,False,True,0.008,0.006,0.35,True,,120.609,0.162805,0.15629,61,4,31,10857,17.7682,Battery-aware
+174,aware,False,True,0.008,0.006,0.35,True,,62.5705,0.209969,0.209969,55,0,21,1857,2.96231,Battery-aware
+175,aware,False,True,0.008,0.006,0.35,True,,142.802,0.162666,0.154268,97,4,67,43639,71.4279,Battery-aware
+176,aware,False,True,0.008,0.006,0.35,True,,66.0578,0.173529,0.173529,55,0,36,2691,3.91847,Battery-aware
+177,aware,False,True,0.008,0.006,0.35,True,,84.327,0.160894,0.160894,60,0,46,11152,19.8937,Battery-aware
+178,aware,False,True,0.008,0.006,0.35,True,,83.6156,0.176353,0.176353,59,0,33,2843,5.47684,Battery-aware
+179,aware,False,True,0.008,0.006,0.35,True,,132.719,0.16202,0.150408,75,6,66,58701,99.7143,Battery-aware
+180,aware,False,True,0.008,0.006,0.35,True,,74.9142,0.194544,0.194544,55,0,32,2737,4.39222,Battery-aware
+181,aware,False,True,0.008,0.006,0.35,True,,84.252,0.178112,0.178112,63,0,46,5280,7.60077,Battery-aware
+182,aware,False,True,0.008,0.006,0.35,True,,67.4825,0.213364,0.213364,55,0,37,2726,5.09106,Battery-aware
+183,aware,False,True,0.008,0.006,0.35,True,,218.974,0.161201,0.15014,87,12,66,40377,81.7987,Battery-aware
+184,aware,False,True,0.008,0.006,0.35,True,,67.3155,0.185457,0.185457,56,0,28,2422,5.36746,Battery-aware
+185,aware,False,True,0.008,0.006,0.35,True,,69.5117,0.210977,0.210977,58,0,14,1883,3.36073,Battery-aware
+186,aware,False,True,0.008,0.006,0.35,True,,98.367,0.162797,0.153685,65,1,32,5751,9.11477,Battery-aware
+187,aware,False,True,0.008,0.006,0.35,True,,131.861,0.156553,0.156553,72,3,51,8054,16.1443,Battery-aware
+188,aware,False,True,0.008,0.006,0.35,True,,63.805,0.206939,0.206939,55,0,4,1691,3.82729,Battery-aware
+189,aware,False,True,0.008,0.006,0.35,True,,114.675,0.154352,0.154352,87,2,58,31231,48.4362,Battery-aware
+190,aware,False,True,0.008,0.006,0.35,True,,74.0858,0.201828,0.201828,56,0,34,2917,5.3951,Battery-aware
+191,aware,False,True,0.008,0.006,0.35,True,,99.1348,0.15173,0.15173,75,0,35,5052,8.36354,Battery-aware
+192,aware,False,True,0.008,0.006,0.35,True,,200.644,0.151706,0.150577,76,10,28,10247,23.2641,Battery-aware
+193,aware,False,True,0.008,0.006,0.35,True,,128.715,0.15257,0.150872,93,2,76,45573,83.1685,Battery-aware
+194,aware,False,True,0.008,0.006,0.35,True,,63.9422,0.222116,0.222116,55,0,25,2109,3.37888,Battery-aware
+195,aware,False,True,0.008,0.006,0.35,True,,62.5369,0.224692,0.224692,55,0,23,1967,3.41001,Battery-aware
+196,aware,False,True,0.008,0.006,0.35,True,,64.7907,0.218671,0.218671,55,0,29,2562,3.32857,Battery-aware
+197,aware,False,True,0.008,0.006,0.35,True,,81.1187,0.166247,0.166247,58,0,24,2228,3.89491,Battery-aware
+198,aware,False,True,0.008,0.006,0.35,True,,85.0549,0.161934,0.161934,60,0,34,4014,6.37587,Battery-aware
+199,aware,False,True,0.008,0.006,0.35,True,,182.721,0.15185,0.15185,78,7,58,10359,14.6013,Battery-aware
+200,aware,False,True,0.008,0.006,0.35,True,,161.569,0.154976,0.154976,71,5,46,14883,29.6043,Battery-aware
+1,aware,True,True,0.008,0.006,0.35,True,,66.9917,0.216017,0.216017,55,0,0,922,1.39727,"Battery-aware, full map"
+2,aware,True,True,0.008,0.006,0.35,True,,74.0021,0.16345,0.16345,55,0,0,1311,2.0928,"Battery-aware, full map"
+3,aware,True,True,0.008,0.006,0.35,True,,100.156,0.165102,0.165102,68,1,0,4215,8.02749,"Battery-aware, full map"
+4,aware,True,True,0.008,0.006,0.35,True,,99.2233,0.151553,0.151553,72,0,0,4921,9.98635,"Battery-aware, full map"
+5,aware,True,True,0.008,0.006,0.35,True,,92.1234,0.158613,0.158613,70,0,0,2747,4.78313,"Battery-aware, full map"
+6,aware,True,True,0.008,0.006,0.35,True,,66.6266,0.216747,0.216747,55,0,0,1137,1.68292,"Battery-aware, full map"
+7,aware,True,True,0.008,0.006,0.35,True,,82.9664,0.184067,0.184067,64,0,0,4594,9.72961,"Battery-aware, full map"
+8,aware,True,True,0.008,0.006,0.35,True,,63.3758,0.223248,0.223248,55,0,0,507,0.68545,"Battery-aware, full map"
+9,aware,True,True,0.008,0.006,0.35,True,,91.2465,0.163971,0.163971,72,0,0,2221,4.97393,"Battery-aware, full map"
+10,aware,True,True,0.008,0.006,0.35,True,,84.1377,0.181725,0.181725,59,0,0,4278,7.37322,"Battery-aware, full map"
+11,aware,True,True,0.008,0.006,0.35,True,,87.9821,0.154566,0.154566,64,0,0,9608,19.7732,"Battery-aware, full map"
+12,aware,True,True,0.008,0.006,0.35,True,,88.2559,0.173488,0.173488,67,0,0,3893,6.36944,"Battery-aware, full map"
+13,aware,True,True,0.008,0.006,0.35,True,,80.4157,0.166449,0.166449,61,0,0,2914,5.62851,"Battery-aware, full map"
+14,aware,True,True,0.008,0.006,0.35,True,,90.1672,0.153743,0.153743,67,0,0,6392,15.3772,"Battery-aware, full map"
+15,aware,True,True,0.008,0.006,0.35,True,,80.5561,0.188888,0.188888,60,0,0,2840,4.99012,"Battery-aware, full map"
+16,aware,True,True,0.008,0.006,0.35,True,,66.764,0.188483,0.188483,55,0,0,622,1.25121,"Battery-aware, full map"
+17,aware,True,True,0.008,0.006,0.35,True,,83.1099,0.18378,0.18378,61,0,0,2220,5.59697,"Battery-aware, full map"
+18,aware,True,True,0.008,0.006,0.35,True,,139.788,0.150893,0.150893,63,4,0,39154,95.8043,"Battery-aware, full map"
+19,aware,True,True,0.008,0.006,0.35,True,,73.0467,0.187815,0.187815,60,0,0,569,0.920168,"Battery-aware, full map"
+20,aware,True,True,0.008,0.006,0.35,True,,82.2993,0.167062,0.167062,64,0,0,4026,6.8171,"Battery-aware, full map"
+21,aware,True,True,0.008,0.006,0.35,True,,71.2492,0.165534,0.165534,56,0,0,844,1.42991,"Battery-aware, full map"
+22,aware,True,True,0.008,0.006,0.35,True,,78.293,0.193414,0.193414,61,0,0,643,1.19711,"Battery-aware, full map"
+23,aware,True,True,0.008,0.006,0.35,True,,125.389,0.150954,0.150954,68,2,0,31147,84.4673,"Battery-aware, full map"
+24,aware,True,True,0.008,0.006,0.35,True,,88.0003,0.173999,0.173999,70,0,0,5509,11.0607,"Battery-aware, full map"
+25,aware,True,True,0.008,0.006,0.35,True,,93.8383,0.156867,0.156867,76,0,0,5116,11.0504,"Battery-aware, full map"
+26,aware,True,True,0.008,0.006,0.35,True,,64.1719,0.221656,0.221656,55,0,0,987,1.62743,"Battery-aware, full map"
+27,aware,True,True,0.008,0.006,0.35,True,,101.926,0.168376,0.168376,56,1,0,11783,26.9403,"Battery-aware, full map"
+28,aware,True,True,0.008,0.006,0.35,True,,87.7128,0.17317,0.17317,68,0,0,3286,5.47974,"Battery-aware, full map"
+29,aware,True,True,0.008,0.006,0.35,True,,65.2036,0.219593,0.219593,55,0,0,526,0.786935,"Battery-aware, full map"
+30,aware,True,True,0.008,0.006,0.35,True,,72.0005,0.200245,0.200245,55,0,0,1195,2.1525,"Battery-aware, full map"
+31,aware,True,True,0.008,0.006,0.35,True,,74.5332,0.200934,0.200934,57,0,0,691,1.28348,"Battery-aware, full map"
+32,aware,True,True,0.008,0.006,0.35,True,,61.3533,0.227293,0.227293,55,0,0,360,0.472697,"Battery-aware, full map"
+33,aware,True,True,0.008,0.006,0.35,True,,76.7763,0.196447,0.196447,58,0,0,3180,6.1631,"Battery-aware, full map"
+34,aware,True,True,0.008,0.006,0.35,True,,99.0477,0.151905,0.151905,68,0,0,13203,27.7737,"Battery-aware, full map"
+35,aware,True,True,0.008,0.006,0.35,True,,95.1001,0.15638,0.15638,75,0,0,5398,9.87463,"Battery-aware, full map"
+36,aware,True,True,0.008,0.006,0.35,True,,76.9537,0.178327,0.178327,55,0,0,2851,5.34024,"Battery-aware, full map"
+37,aware,True,True,0.008,0.006,0.35,True,,90.2263,0.167036,0.167036,65,0,0,4538,8.98906,"Battery-aware, full map"
+38,aware,True,True,0.008,0.006,0.35,True,,72.5198,0.186421,0.186421,55,0,0,1318,2.40088,"Battery-aware, full map"
+39,aware,True,True,0.008,0.006,0.35,True,,79.6859,0.190628,0.190628,60,0,0,1527,2.34799,"Battery-aware, full map"
+40,aware,True,True,0.008,0.006,0.35,True,,61.8299,0.22634,0.22634,55,0,0,402,0.595718,"Battery-aware, full map"
+41,aware,True,True,0.008,0.006,0.35,True,,76.2645,0.197471,0.197471,55,0,0,1120,2.02323,"Battery-aware, full map"
+42,aware,True,True,0.008,0.006,0.35,True,,81.7369,0.18242,0.18242,67,0,0,4781,22.2787,"Battery-aware, full map"
+43,aware,True,True,0.008,0.006,0.35,True,,62.3787,0.199531,0.199531,55,0,0,635,1.13411,"Battery-aware, full map"
+44,aware,True,True,0.008,0.006,0.35,True,,73.083,0.178473,0.178473,58,0,0,1344,2.13761,"Battery-aware, full map"
+45,aware,True,True,0.008,0.006,0.35,True,,67.9959,0.185424,0.185424,55,0,0,778,1.15872,"Battery-aware, full map"
+46,aware,True,True,0.008,0.006,0.35,True,,92.4496,0.155149,0.155149,69,0,0,4399,8.22324,"Battery-aware, full map"
+47,aware,True,True,0.008,0.006,0.35,True,,69.0697,0.210565,0.210565,55,0,0,1143,3.07691,"Battery-aware, full map"
+48,aware,True,True,0.008,0.006,0.35,True,,95.911,0.158178,0.158178,72,0,0,10919,21.3167,"Battery-aware, full map"
+49,aware,True,True,0.008,0.006,0.35,True,,83.2042,0.183592,0.183592,60,0,0,7346,19.8734,"Battery-aware, full map"
+50,aware,True,True,0.008,0.006,0.35,True,,92.1849,0.16563,0.16563,73,0,0,8296,13.8326,"Battery-aware, full map"
+51,aware,True,True,0.008,0.006,0.35,True,,66.2053,0.217589,0.217589,55,0,0,466,1.39721,"Battery-aware, full map"
+52,aware,True,True,0.008,0.006,0.35,True,,90.2733,0.162254,0.162254,63,0,0,1886,5.03865,"Battery-aware, full map"
+53,aware,True,True,0.008,0.006,0.35,True,,96.0276,0.157945,0.157945,72,0,0,6208,16.0127,"Battery-aware, full map"
+54,aware,True,True,0.008,0.006,0.35,True,,81.5204,0.170792,0.170792,64,0,0,2973,8.38525,"Battery-aware, full map"
+55,aware,True,True,0.008,0.006,0.35,True,,65.3589,0.156674,0.156674,55,0,0,776,1.80531,"Battery-aware, full map"
+56,aware,True,True,0.008,0.006,0.35,True,,73.1905,0.203619,0.203619,55,0,0,1772,2.51452,"Battery-aware, full map"
+57,aware,True,True,0.008,0.006,0.35,True,,64.7379,0.220524,0.220524,55,0,0,497,1.30401,"Battery-aware, full map"
+58,aware,True,True,0.008,0.006,0.35,True,,76.495,0.19701,0.19701,56,0,0,2423,6.18295,"Battery-aware, full map"
+59,aware,True,True,0.008,0.006,0.35,True,,79.6888,0.18812,0.18812,63,0,0,1863,2.59885,"Battery-aware, full map"
+60,aware,True,True,0.008,0.006,0.35,True,,97.2604,0.152195,0.152195,75,0,0,9783,20.3222,"Battery-aware, full map"
+61,aware,True,True,0.008,0.006,0.35,True,,66.178,0.217644,0.217644,55,0,0,1197,3.18534,"Battery-aware, full map"
+62,aware,True,True,0.008,0.006,0.35,True,,89.2857,0.171429,0.171429,64,0,0,7949,21.4451,"Battery-aware, full map"
+63,aware,True,True,0.008,0.006,0.35,True,,72.9234,0.204153,0.204153,55,0,0,1241,1.77281,"Battery-aware, full map"
+64,aware,True,True,0.008,0.006,0.35,True,,85.6855,0.150928,0.150928,56,0,0,1864,2.64667,"Battery-aware, full map"
+65,aware,True,True,0.008,0.006,0.35,True,,82.4194,0.15478,0.15478,61,1,0,4017,7.52159,"Battery-aware, full map"
+66,aware,True,True,0.008,0.006,0.35,True,,64.0003,0.221999,0.221999,55,0,0,737,1.90439,"Battery-aware, full map"
+67,aware,True,True,0.008,0.006,0.35,True,,117.411,0.150709,0.150709,77,2,0,19299,61.9921,"Battery-aware, full map"
+68,aware,True,True,0.008,0.006,0.35,True,,65.836,0.183472,0.183472,55,0,0,552,0.83261,"Battery-aware, full map"
+69,aware,True,True,0.008,0.006,0.35,True,,67.3836,0.215233,0.215233,55,0,0,856,1.36687,"Battery-aware, full map"
+70,aware,True,True,0.008,0.006,0.35,True,,68.9447,0.212111,0.212111,58,0,0,1760,2.49674,"Battery-aware, full map"
+71,aware,True,True,0.008,0.006,0.35,True,,103.73,0.151568,0.151568,63,1,0,12963,26.5727,"Battery-aware, full map"
+72,aware,True,True,0.008,0.006,0.35,True,,114.834,0.150332,0.150332,75,1,0,20335,48.8583,"Battery-aware, full map"
+73,aware,True,True,0.008,0.006,0.35,True,,79.8604,0.15479,0.15479,56,0,0,2235,5.5178,"Battery-aware, full map"
+74,aware,True,True,0.008,0.006,0.35,True,,62.5255,0.18269,0.18269,55,0,0,654,2.31696,"Battery-aware, full map"
+75,aware,True,True,0.008,0.006,0.35,True,,68.2268,0.156636,0.156636,55,0,0,839,2.06741,"Battery-aware, full map"
+76,aware,True,True,0.008,0.006,0.35,True,,63.7589,0.222482,0.222482,55,0,0,530,1.2423,"Battery-aware, full map"
+77,aware,True,True,0.008,0.006,0.35,True,,79.1275,0.191745,0.191745,57,0,0,2506,5.35304,"Battery-aware, full map"
+78,aware,True,True,0.008,0.006,0.35,True,,86.5259,0.168916,0.168916,57,0,0,4390,7.62007,"Battery-aware, full map"
+79,aware,True,True,0.008,0.006,0.35,True,,77.507,0.194986,0.194986,60,0,0,2649,6.24709,"Battery-aware, full map"
+80,aware,True,True,0.008,0.006,0.35,True,,82.8888,0.184222,0.184222,63,0,0,4971,8.8765,"Battery-aware, full map"
+81,aware,True,True,0.008,0.006,0.35,True,,72.3055,0.196702,0.196702,55,0,0,1529,3.57122,"Battery-aware, full map"
+82,aware,True,True,0.008,0.006,0.35,True,,86.8992,0.175897,0.175897,66,0,0,4672,7.17404,"Battery-aware, full map"
+83,aware,True,True,0.008,0.006,0.35,True,,77.3853,0.195229,0.195229,57,0,0,1450,2.90741,"Battery-aware, full map"
+84,aware,True,True,0.008,0.006,0.35,True,,68.9672,0.212066,0.212066,56,0,0,961,2.12352,"Battery-aware, full map"
+85,aware,True,True,0.008,0.006,0.35,True,,65.936,0.1908,0.1908,55,0,0,701,0.979787,"Battery-aware, full map"
+86,aware,True,True,0.008,0.006,0.35,True,,89.184,0.151711,0.151711,62,0,0,9564,24.84,"Battery-aware, full map"
+87,aware,True,True,0.008,0.006,0.35,True,,69.9666,0.210067,0.210067,55,0,0,747,1.13031,"Battery-aware, full map"
+88,aware,True,True,0.008,0.006,0.35,True,,65.7108,0.217894,0.217894,55,0,0,598,0.828305,"Battery-aware, full map"
+89,aware,True,True,0.008,0.006,0.35,True,,84.5304,0.155563,0.155563,59,0,0,4316,6.59438,"Battery-aware, full map"
+90,aware,True,True,0.008,0.006,0.35,True,,92.2734,0.165453,0.165453,72,0,0,7324,12.9068,"Battery-aware, full map"
+91,aware,True,True,0.008,0.006,0.35,True,,63.5565,0.222887,0.222887,55,0,0,700,1.71244,"Battery-aware, full map"
+92,aware,True,True,0.008,0.006,0.35,True,,112.718,0.168373,0.154703,57,2,0,16457,47.7536,"Battery-aware, full map"
+93,aware,True,True,0.008,0.006,0.35,True,,62.5748,0.22485,0.22485,55,0,0,499,1.20257,"Battery-aware, full map"
+94,aware,True,True,0.008,0.006,0.35,True,,64.0699,0.220615,0.220615,55,0,0,684,1.19904,"Battery-aware, full map"
+95,aware,True,True,0.008,0.006,0.35,True,,65.397,0.219206,0.219206,55,0,0,591,0.752466,"Battery-aware, full map"
+96,aware,True,True,0.008,0.006,0.35,True,,69.1702,0.21166,0.21166,55,0,0,746,1.15531,"Battery-aware, full map"
+97,aware,True,True,0.008,0.006,0.35,True,,105.595,0.168809,0.168809,77,1,0,6572,12.2375,"Battery-aware, full map"
+98,aware,True,True,0.008,0.006,0.35,True,,72.5776,0.204845,0.204845,58,0,0,2235,3.58782,"Battery-aware, full map"
+99,aware,True,True,0.008,0.006,0.35,True,,77.3221,0.161147,0.161147,61,0,0,1439,2.609,"Battery-aware, full map"
+100,aware,True,True,0.008,0.006,0.35,True,,84.1134,0.181773,0.181773,61,0,0,3539,5.99652,"Battery-aware, full map"
+101,aware,True,True,0.008,0.006,0.35,True,,85.8271,0.150822,0.150822,57,1,0,6447,15.0459,"Battery-aware, full map"
+102,aware,True,True,0.008,0.006,0.35,True,,96.1531,0.157694,0.157694,76,0,0,6128,11.6107,"Battery-aware, full map"
+103,aware,True,True,0.008,0.006,0.35,True,,64.5428,0.169375,0.169375,55,0,0,1148,4.12077,"Battery-aware, full map"
+104,aware,True,True,0.008,0.006,0.35,True,,85.25,0.167819,0.167819,65,0,0,2645,4.63112,"Battery-aware, full map"
+105,aware,True,True,0.008,0.006,0.35,True,,64.2947,0.210506,0.210506,55,0,0,743,1.31055,"Battery-aware, full map"
+106,aware,True,True,0.008,0.006,0.35,True,,90.2355,0.169529,0.169529,60,0,0,5000,9.14745,"Battery-aware, full map"
+107,aware,True,True,0.008,0.006,0.35,True,,61.8099,0.169516,0.169516,55,0,0,637,1.51723,"Battery-aware, full map"
+108,aware,True,True,0.008,0.006,0.35,True,,97.505,0.15499,0.15499,69,0,0,4267,12.9904,"Battery-aware, full map"
+109,aware,True,True,0.008,0.006,0.35,True,,72.8204,0.204359,0.204359,57,0,0,1941,3.16349,"Battery-aware, full map"
+110,aware,True,True,0.008,0.006,0.35,True,,70.1985,0.209603,0.209603,55,0,0,1372,2.39629,"Battery-aware, full map"
+111,aware,True,True,0.008,0.006,0.35,True,,93.4937,0.151586,0.150786,68,1,0,14528,32.6484,"Battery-aware, full map"
+112,aware,True,True,0.008,0.006,0.35,True,,66.9646,0.216071,0.216071,55,0,0,527,1.08473,"Battery-aware, full map"
+113,aware,True,True,0.008,0.006,0.35,True,,79.6717,0.189801,0.189801,57,0,0,2837,7.35832,"Battery-aware, full map"
+114,aware,True,True,0.008,0.006,0.35,True,,76.8835,0.162278,0.162278,56,0,0,2448,6.68231,"Battery-aware, full map"
+115,aware,True,True,0.008,0.006,0.35,True,,80.029,0.189942,0.189942,57,0,0,2987,6.01853,"Battery-aware, full map"
+116,aware,True,True,0.008,0.006,0.35,True,,87.4101,0.17518,0.17518,68,0,0,6185,14.6191,"Battery-aware, full map"
+117,aware,True,True,0.008,0.006,0.35,True,,62.0335,0.225933,0.225933,55,0,0,384,0.545763,"Battery-aware, full map"
+118,aware,True,True,0.008,0.006,0.35,True,,93.2426,0.162093,0.162093,71,0,0,5327,13.0416,"Battery-aware, full map"
+119,aware,True,True,0.008,0.006,0.35,True,,91.1796,0.167641,0.167641,64,0,0,7870,11.9115,"Battery-aware, full map"
+120,aware,True,True,0.008,0.006,0.35,True,,70.6284,0.208743,0.208743,55,0,0,1300,3.1278,"Battery-aware, full map"
+121,aware,True,True,0.008,0.006,0.35,True,,80.6205,0.188759,0.188759,57,0,0,2161,3.81501,"Battery-aware, full map"
+122,aware,True,True,0.008,0.006,0.35,True,,85.855,0.17829,0.17829,62,0,0,3718,8.37148,"Battery-aware, full map"
+123,aware,True,True,0.008,0.006,0.35,True,,74.657,0.185165,0.185165,56,0,0,1908,3.94303,"Battery-aware, full map"
+124,aware,True,True,0.008,0.006,0.35,True,,92.9344,0.164131,0.164131,78,0,0,10481,27.3766,"Battery-aware, full map"
+125,aware,True,True,0.008,0.006,0.35,True,,71.0825,0.197782,0.197782,55,0,0,1288,2.06636,"Battery-aware, full map"
+126,aware,True,True,0.008,0.006,0.35,True,,106.264,0.15689,0.15689,79,1,0,11162,23.6253,"Battery-aware, full map"
+127,aware,True,True,0.008,0.006,0.35,True,,80.7846,0.188431,0.188431,61,0,0,1432,2.21451,"Battery-aware, full map"
+128,aware,True,True,0.008,0.006,0.35,True,,74.0533,0.156626,0.156626,56,0,0,1764,3.35004,"Battery-aware, full map"
+129,aware,True,True,0.008,0.006,0.35,True,,118.375,0.165912,0.165912,94,2,0,16652,64.9039,"Battery-aware, full map"
+130,aware,True,True,0.008,0.006,0.35,True,,75.6979,0.198604,0.198604,55,0,0,1583,2.69055,"Battery-aware, full map"
+131,aware,True,True,0.008,0.006,0.35,True,,72.1414,0.205461,0.205461,59,0,0,796,1.75029,"Battery-aware, full map"
+132,aware,True,True,0.008,0.006,0.35,True,,108.926,0.15167,0.15167,79,1,0,7614,18.8201,"Battery-aware, full map"
+133,aware,True,True,0.008,0.006,0.35,True,,68.7523,0.181198,0.181198,55,0,0,1527,2.37371,"Battery-aware, full map"
+134,aware,True,True,0.008,0.006,0.35,True,,70.0555,0.204497,0.204497,55,0,0,1013,1.75427,"Battery-aware, full map"
+135,aware,True,True,0.008,0.006,0.35,True,,70.1589,0.179921,0.179921,55,0,0,1691,2.65364,"Battery-aware, full map"
+136,aware,True,True,0.008,0.006,0.35,True,,62.1112,0.220846,0.220846,55,0,0,502,0.757175,"Battery-aware, full map"
+137,aware,True,True,0.008,0.006,0.35,True,,66.584,0.210901,0.210901,55,0,0,565,0.988876,"Battery-aware, full map"
+138,aware,True,True,0.008,0.006,0.35,True,,74.1142,0.201772,0.201772,61,0,0,1620,2.79975,"Battery-aware, full map"
+139,aware,True,True,0.008,0.006,0.35,True,,79.6634,0.18487,0.18487,61,0,0,2788,6.59326,"Battery-aware, full map"
+140,aware,True,True,0.008,0.006,0.35,True,,65.0593,0.179536,0.179536,55,0,0,535,0.81213,"Battery-aware, full map"
+141,aware,True,True,0.008,0.006,0.35,True,,84.9659,0.180068,0.180068,63,0,0,3366,5.64843,"Battery-aware, full map"
+142,aware,True,True,0.008,0.006,0.35,True,,77.6445,0.161392,0.161392,55,0,0,1924,3.05988,"Battery-aware, full map"
+143,aware,True,True,0.008,0.006,0.35,True,,63.1223,0.190356,0.190356,55,0,0,584,0.660148,"Battery-aware, full map"
+144,aware,True,True,0.008,0.006,0.35,True,,86.0373,0.177925,0.177925,66,0,0,3029,4.77542,"Battery-aware, full map"
+145,aware,True,True,0.008,0.006,0.35,True,,65.6468,0.205303,0.205303,55,0,0,824,1.26777,"Battery-aware, full map"
+146,aware,True,True,0.008,0.006,0.35,True,,83.5455,0.182909,0.182909,66,0,0,2456,4.25384,"Battery-aware, full map"
+147,aware,True,True,0.008,0.006,0.35,True,,93.9923,0.161723,0.150232,71,1,0,11920,23.1353,"Battery-aware, full map"
+148,aware,True,True,0.008,0.006,0.35,True,,63.1162,0.223768,0.223768,55,0,0,466,0.804202,"Battery-aware, full map"
+149,aware,True,True,0.008,0.006,0.35,True,,62.5382,0.224924,0.224924,55,0,0,347,0.449314,"Battery-aware, full map"
+150,aware,True,True,0.008,0.006,0.35,True,,60.7712,0.228458,0.228458,55,0,0,274,0.430797,"Battery-aware, full map"
+151,aware,True,True,0.008,0.006,0.35,True,,87.9619,0.172822,0.172822,65,0,0,2358,4.60461,"Battery-aware, full map"
+152,aware,True,True,0.008,0.006,0.35,True,,84.8174,0.175902,0.175902,55,0,0,4594,8.83004,"Battery-aware, full map"
+153,aware,True,True,0.008,0.006,0.35,True,,78.0014,0.193997,0.193997,61,0,0,3808,6.502,"Battery-aware, full map"
+154,aware,True,True,0.008,0.006,0.35,True,,62.493,0.225014,0.225014,55,0,0,407,0.567127,"Battery-aware, full map"
+155,aware,True,True,0.008,0.006,0.35,True,,76.6419,0.172446,0.172446,56,0,0,2001,3.57711,"Battery-aware, full map"
+156,aware,True,True,0.008,0.006,0.35,True,,86.8995,0.155288,0.155288,56,1,0,3997,7.13832,"Battery-aware, full map"
+157,aware,True,True,0.008,0.006,0.35,True,,94.6042,0.160792,0.160792,73,0,0,10081,23.9286,"Battery-aware, full map"
+158,aware,True,True,0.008,0.006,0.35,True,,81.2279,0.156476,0.156476,56,0,0,4090,8.3448,"Battery-aware, full map"
+159,aware,True,True,0.008,0.006,0.35,True,,69.2652,0.21147,0.21147,55,0,0,858,1.19401,"Battery-aware, full map"
+160,aware,True,True,0.008,0.006,0.35,True,,98.0337,0.153933,0.153933,77,0,0,7183,12.3424,"Battery-aware, full map"
+161,aware,True,True,0.008,0.006,0.35,True,,71.723,0.185333,0.185333,56,0,0,1108,2.71942,"Battery-aware, full map"
+162,aware,True,True,0.008,0.006,0.35,True,,71.7643,0.206471,0.206471,55,0,0,1475,2.92762,"Battery-aware, full map"
+163,aware,True,True,0.008,0.006,0.35,True,,86.3813,0.165017,0.165017,59,0,0,3934,8.25772,"Battery-aware, full map"
+164,aware,True,True,0.008,0.006,0.35,True,,69.1414,0.211717,0.211717,55,0,0,807,1.3677,"Battery-aware, full map"
+165,aware,True,True,0.008,0.006,0.35,True,,93.3488,0.151258,0.151258,66,1,0,6204,30.6989,"Battery-aware, full map"
+166,aware,True,True,0.008,0.006,0.35,True,,115.121,0.169851,0.155916,81,2,0,20277,43.9822,"Battery-aware, full map"
+167,aware,True,True,0.008,0.006,0.35,True,,80.5496,0.151265,0.151265,58,1,0,5329,14.9663,"Battery-aware, full map"
+168,aware,True,True,0.008,0.006,0.35,True,,93.6208,0.162758,0.162758,70,0,0,8743,16.1264,"Battery-aware, full map"
+169,aware,True,True,0.008,0.006,0.35,True,,70.3735,0.159284,0.159284,55,0,0,601,1.59591,"Battery-aware, full map"
+170,aware,True,True,0.008,0.006,0.35,True,,83.8146,0.182371,0.182371,59,0,0,2348,5.23797,"Battery-aware, full map"
+171,aware,True,True,0.008,0.006,0.35,True,,65.7307,0.213756,0.213756,55,0,0,584,1.46243,"Battery-aware, full map"
+172,aware,True,True,0.008,0.006,0.35,True,,80.6673,0.188665,0.188665,57,0,0,1875,3.76246,"Battery-aware, full map"
+173,aware,True,True,0.008,0.006,0.35,True,,77.8767,0.194247,0.194247,58,0,0,3217,5.49185,"Battery-aware, full map"
+174,aware,True,True,0.008,0.006,0.35,True,,61.7173,0.215377,0.215377,55,0,0,435,0.613284,"Battery-aware, full map"
+175,aware,True,True,0.008,0.006,0.35,True,,91.3651,0.159383,0.159383,73,0,0,5059,9.43029,"Battery-aware, full map"
+176,aware,True,True,0.008,0.006,0.35,True,,65.1,0.176603,0.176603,55,0,0,1323,1.91373,"Battery-aware, full map"
+177,aware,True,True,0.008,0.006,0.35,True,,82.9029,0.172979,0.172979,60,0,0,760,1.20561,"Battery-aware, full map"
+178,aware,True,True,0.008,0.006,0.35,True,,80.3845,0.177933,0.177933,59,0,0,2913,6.09914,"Battery-aware, full map"
+179,aware,True,True,0.008,0.006,0.35,True,,83.5215,0.17298,0.17298,57,0,0,2385,4.77285,"Battery-aware, full map"
+180,aware,True,True,0.008,0.006,0.35,True,,72.6619,0.204676,0.204676,55,0,0,1541,2.32506,"Battery-aware, full map"
+181,aware,True,True,0.008,0.006,0.35,True,,75.7048,0.185337,0.185337,61,0,0,1579,2.55563,"Battery-aware, full map"
+182,aware,True,True,0.008,0.006,0.35,True,,64.1398,0.22005,0.22005,55,0,0,533,1.03095,"Battery-aware, full map"
+183,aware,True,True,0.008,0.006,0.35,True,,107.54,0.16492,0.16492,76,1,0,13950,30.8277,"Battery-aware, full map"
+184,aware,True,True,0.008,0.006,0.35,True,,65.2032,0.193129,0.193129,56,0,0,825,1.54428,"Battery-aware, full map"
+185,aware,True,True,0.008,0.006,0.35,True,,69.2922,0.211416,0.211416,58,0,0,1423,2.50126,"Battery-aware, full map"
+186,aware,True,True,0.008,0.006,0.35,True,,80.6259,0.154603,0.154603,58,0,0,4795,9.06692,"Battery-aware, full map"
+187,aware,True,True,0.008,0.006,0.35,True,,113.473,0.153054,0.153054,66,1,0,27864,68.5623,"Battery-aware, full map"
+188,aware,True,True,0.008,0.006,0.35,True,,63.767,0.211062,0.211062,55,0,0,961,1.64583,"Battery-aware, full map"
+189,aware,True,True,0.008,0.006,0.35,True,,70.042,0.195212,0.195212,55,0,0,1371,1.87657,"Battery-aware, full map"
+190,aware,True,True,0.008,0.006,0.35,True,,69.7232,0.210554,0.210554,55,0,0,1210,1.7479,"Battery-aware, full map"
+191,aware,True,True,0.008,0.006,0.35,True,,67.5166,0.179549,0.179549,55,0,0,1450,2.17202,"Battery-aware, full map"
+192,aware,True,True,0.008,0.006,0.35,True,,93.8756,0.162249,0.162249,68,0,0,9747,18.4154,"Battery-aware, full map"
+193,aware,True,True,0.008,0.006,0.35,True,,109.013,0.152278,0.152278,87,1,0,8722,17.7179,"Battery-aware, full map"
+194,aware,True,True,0.008,0.006,0.35,True,,63.464,0.219479,0.219479,55,0,0,639,1.09905,"Battery-aware, full map"
+195,aware,True,True,0.008,0.006,0.35,True,,62.4516,0.224863,0.224863,55,0,0,439,0.679524,"Battery-aware, full map"
+196,aware,True,True,0.008,0.006,0.35,True,,64.5249,0.217689,0.217689,55,0,0,465,0.648853,"Battery-aware, full map"
+197,aware,True,True,0.008,0.006,0.35,True,,74.7749,0.17947,0.17947,56,0,0,2042,3.37636,"Battery-aware, full map"
+198,aware,True,True,0.008,0.006,0.35,True,,82.8699,0.175014,0.175014,57,0,0,3737,6.55008,"Battery-aware, full map"
+199,aware,True,True,0.008,0.006,0.35,True,,153.054,0.163893,0.163893,88,4,0,54580,118.605,"Battery-aware, full map"
+200,aware,True,True,0.008,0.006,0.35,True,,108.008,0.159562,0.159562,79,1,0,15175,37.4821,"Battery-aware, full map"

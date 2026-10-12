@@ -81,13 +81,8 @@ struct LunarMap {
     std::vector<DuneDef>       dunes;
     std::vector<RockyPatchDef> rocky_patches;
 
+    // Fraction of full sunlight reaching cell (x, y): 0 = full shadow, 1 = fully lit.
     double lightLevel(int x, int y, double sun_angle_deg) const;
-
-    // net battery delta = (light * max_gain_per_sec - drain_per_sec) * dt
-    double batteryDelta(int x, int y, double sun_angle_deg,
-                        double dt,
-                        double max_gain_per_sec,
-                        double drain_per_sec) const;
 };
 
 LunarMap buildMap(int width, int height,

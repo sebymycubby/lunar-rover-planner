@@ -62,16 +62,6 @@ double LunarMap::lightLevel(int x, int y, double sun_angle_deg) const {
     return 1.0 - std::min(1.0, shadow);
 }
 
-// ─── New Battery Model ─────────────────────────────────────────────────────
-// net = (light * max_gain_per_sec - drain_per_sec) * dt
-double LunarMap::batteryDelta(int x, int y, double sun_angle_deg,
-                               double dt,
-                               double max_gain_per_sec,
-                               double drain_per_sec) const {
-    double light = lightLevel(x, y, sun_angle_deg);
-    return (light * max_gain_per_sec - drain_per_sec) * dt;
-}
-
 // ─── Procedural Map Generation ─────────────────────────────────────────────
 
 LunarMap buildMap(int width, int height,
